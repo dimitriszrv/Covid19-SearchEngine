@@ -2,7 +2,7 @@
 
 ### Implementing a search engine of articles related to Covid-19. 
 
-Using datasets from **COVID-19 Open Research Dataset(CORD-19)** related to Covid-19 (and in general health issues) and given some key-words, returning aticles that match best with the search word/s. 
+Using datasets from **COVID-19 Open Research Dataset(CORD-19)** related to Covid-19 (and in general health issues) and given some key-words, returning articles that match best with the search word/s. 
 
 Datasets are found at url: 
 
@@ -20,6 +20,6 @@ We break the data to title and text-body, so the **BuildDocument()** will get js
 
 The Search User Interface will be implemented with **GUI search box**. At searching the user will have the option if he wants to search by the title of the document or at all document at once.  
 All queries of the index are done through the **IndexSearcher()**, returns documents ranked by either the relevance to the query.
-**QueryParser()** parses a textual representation of a query and searches the index for results. **Query()** has many types of queries (ex WildcardQuery, BooleanQuery etc) and each type of query provides a unique way of searching the index and contains the results.
+**QueryParser()** parses a textual representation of a query and searches the index for results. **Query()** has many types of queries (ex WildcardQuery, BooleanQuery etc) and each type of query provides a unique way of searching the index and contains the results depending on the question.
 
 The results will be show at GUI as 10 results per page.
