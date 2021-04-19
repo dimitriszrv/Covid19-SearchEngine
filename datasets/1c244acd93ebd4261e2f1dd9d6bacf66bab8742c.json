@@ -1,0 +1,1264 @@
+{
+    "paper_id": "1c244acd93ebd4261e2f1dd9d6bacf66bab8742c",
+    "metadata": {
+        "title": "Assessment and Comparison of Two Serological Approaches for the Surveillance of Health Workers Exposed to SARS-CoV-2",
+        "authors": [
+            {
+                "first": "Antonio",
+                "middle": [],
+                "last": "Russo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Federica",
+                "middle": [],
+                "last": "Cal\u00f2",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alessandra",
+                "middle": [],
+                "last": "Di Fraia",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mario",
+                "middle": [],
+                "last": "Starace",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Carmine",
+                "middle": [],
+                "last": "Minichini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Valeria",
+                "middle": [],
+                "last": "Gentile",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Italo",
+                "middle": [
+                    "Francesco"
+                ],
+                "last": "Angelillo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nicola",
+                "middle": [],
+                "last": "Coppola",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Campania",
+                    "location": {
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The aim of the present study was to assess the diagnostic performance of an LFA compared with an ELISA test in a cohort of HWs operating in a COVID-19 unit of a teaching hospital in southern Italy. Methods: We performed an observational, prospective, interventional study including 65 COVID-19 unit personnel. On a total of 196 serum samples (at least 2 serum samples for each HW), LFA and ELISA tests for SARS-COV-2 IgG and IgM were performed. Also, 32 serum samples of SARS-CoV-2 RNA positive patients at least 21 days before sampling, and 30 serum samples of patients obtained up to November 2019, before COVID-19 outbreak in China, were used as positive and negative controls, respectively. Findings: Of the 65 HWs enrolled, 6 were positive in LFA; overall, of the 196 serum samples, 20 were positive in LFA. All ELISA tests performed on serum samples collected from HWs were negative. The specificity of LFAs was 90.77% considering the 65 HWs and 89.80% considering all the 196 health workers serum samples analyzed. Considering the data on HWs, ELISA test for SARS-COV-2 antibodies showed a specificity of 100%, including all the 196 serum samples collected, and 100% including the 65 HWs. The ELISA and LFAs performed after 21 days last COVID-19 patient was discharged were all negative. Conclusion: LFAs compared to ELISA tests result in less specificity, considering COVID-19 negative personnel and patients. Thus, LFAs seem to be not adequate in the active surveillance of HWs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "From the first description of pneumonia of unknown cause detected in Wuhan, China, at the end of December 2019, the pandemic caused by the novel coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is dramatically accelerating worldwide. 1 Given the significant impact of Coronavirus disease (COVID)-19 outbreak, it is of fundamental importance to implement the use of diagnostic tests for the quick identification of suspected cases. This might facilitate contact tracing of people exposed to the virus in order to put in place infection control measures, necessary to reduce the further spread of the pandemic.",
+            "cite_spans": [
+                {
+                    "start": 266,
+                    "end": 267,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Health workers (HWs) are at high risk of infection while caring for COVID-19 patients and they can be responsible for nosocomial transmission clusters; thus, the surveillance of HWs is a key point in the management of SARS-CoV-2 infection. Clinical passive surveillance with self-assessment for fever or other suggestive symptoms for COVID-19 is recommended for all exposed HWs. However, this strategy may lack information from asymptomatic or mildly symptomatic subjects. For this reason, it is of utmost importance that all HWs undergo, in addition to clinical passive surveillance, microbiological active surveillance with nucleic acid amplification tests (NAATs) or serological tests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Although NAATs in respiratory samples represent the gold standard for the diagnosis of current infection with SARS-CoV-2, they have some limitations, such as the cost, the medium turnaround time ranged between 4 and 24 hours 2 and the fact that they require specialized personnel; in addition, insufficient viral RNA at the point of detection may lead to false-negative results. 3 Numerous serological immunoassays have been introduced for the identification of immunity against SARS-CoV-2; they could be easily implemented in any hospital with a much wider application than molecular tests. 4 The IgM-IgG antibody test exhibited a useful adjunct to RT-PCR detection, and improved the accuracy in COVID-19 diagnosis. 5 Compared to NAATs, antibody assays are often faster, less expensive, require no trained technicians to operate 4 and the requirement for specimen quality is less stringent than for RNA-based assays. 4 Their sensitivity may not depend on the type of serological test used only, but also on the timing of disease presentation and exposure to the virus; in fact, detection of IgM antibodies may take 3 to 6 days to appear and IgG antibodies typically appear after 8 days, [6] [7] [8] features that make them unreliable in the early stages of the illness. Point-of-care lateral flow assays (LFAs) automated chemiluminescence immunoassay (CLIA) and enzymelinked immunosorbent assay (ELISA) are the most widely used commercial tests. Rapid IgM/IgG tests by LFAs can be efficiently used in the surveillance of HWs since they are inexpensive and simple tests giving results in 10-15 minutes, thus particularly suitable to population scale diagnosis of SARS-CoV-2 in both high-income countries and low-and middle-income countries. 9 The aim of the present study was to assess the diagnostic performance of two serological assays, in particular of an LFAs compared with an ELISA test in a cohort of HWs in a COVID-19 unit of a teaching hospital in southern Italy.",
+            "cite_spans": [
+                {
+                    "start": 379,
+                    "end": 380,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 592,
+                    "end": 593,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 717,
+                    "end": 718,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 918,
+                    "end": 919,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1188,
+                    "end": 1191,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1192,
+                    "end": 1195,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1196,
+                    "end": 1199,
+                    "text": "[8]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1741,
+                    "end": 1742,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "We performed an observational, prospective study in the COVID-19 unit of the University of Campania \"L. Vanvitelli\", Naples: the unit included 24 beds for the care of COVID-19 patients and was active from 22 March to 3 July 2020; the nursing staff included one nurse for every four beds.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Design"
+        },
+        {
+            "text": "All HWs employed at this unit were included in the study. They all followed the infection prevention and control (IPC) procedures according to the Azienda Ospedaliera Universitaria",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Design"
+        },
+        {
+            "text": "Vanvitelli protocol (prot.287/2020). According to these procedures, passive and active surveillance were performed for all HWs: passive surveillance was based on body temperature control at the beginning and at the end of every work shift and on COVID-19-related-symptoms check; active surveillance was done by a lateral flow assay (LFA) for SARS-CoV-2 IgG and IgM every 7 days. In case of fever (body temperature>37.5\u00b0C) and/or COVID-19-related symptoms and/or positive LFA, a NAAT for SARS-COV -2-RNA on nasopharyngeal swab was performed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Design"
+        },
+        {
+            "text": "To satisfy the aims of the study, from May, 2 2020 to June, 8 2020, apart from the LFAs, surveillance was implemented with ELISA tests for SARS-COV-2 IgG and IgM on at least 2 serum samples for each HW and a further serum sample was collected 21 days since the last COVID-19 patient was discharged, as shown in Figure 1 . A NAAT for SARS-CoV-2 on nasopharyngeal swabs for each HW was performed in May 2020 ( Figure 1 ). Moreover, in August 2020, at least 45 days after the discharge of the last patient, tests for SARS-COV-2 IgG and IgM by ELISA and a NAAT for SARS-CoV-2 on nasopharyngeal swabs were performed in all HWs.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 311,
+                    "end": 319,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 408,
+                    "end": 416,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Study Design"
+        },
+        {
+            "text": "In order to assess the sensibility and specificity of LFA and ELISA, as positive controls, we tested 32 serum samples of COVID-19 patients, samples collected 21-32 days from the first NAAT positivity, and, as negative controls, 30 serum samples of patients obtained from July 2019 up to November 2019 (8 in July, 6 in August, 7 in September, 7 in October, 2 in November 2019). Moreover, all the 30 subjects did not have a history of traveling abroad in the last month before blood sampling.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Design"
+        },
+        {
+            "text": "The study was approved by the Ethics Committee of the University of Campania, Naples (n\u00b010877/2020). All procedures performed in this study were in accordance with the ethics standards of the institutional and/or national research committee and with the 1964 Helsinki submit your manuscript | www.dovepress.com",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Design"
+        },
+        {
+            "text": "Infection and Drug Resistance 2020:13 declaration and its later amendments or comparable ethics standards. Informed consent was obtained from all participants included in the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DovePress"
+        },
+        {
+            "text": "As LFAs, the Xiamen Wiz Biotec (Xiamen, China) Diagnostic Kit (Colloidal Gold) for IgM/IgG antibodies for SARS-CoV-2 was used according to the manufacturer's instructions: if the control line did not appear the test was considered invalid; in the presence of the control line, any visible band for IgG or IgM was indicative of a positive result. 10 ",
+            "cite_spans": [
+                {
+                    "start": 346,
+                    "end": 348,
+                    "text": "10",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Lateral Flow Assays (LFAs)"
+        },
+        {
+            "text": "For the ELISA test, we used WANTAI SARS-CoV-2 Ab ELISA (Xiamen, China), that tests for total antibodies to the SARS-CoV-2 receptor binding domain. The test was used according to the manufacturer's instructions on at least 2 sera for each HW during the activity of the COVID-19 unit and one serum at the end: if the specimen had absorbance less than the cut-off value (calculated using the negative control absorbance and a standard value), it was considered negative; otherwise, if it had absorbance more than the cutoff value, it was considered positive; the specimens with cut-off ratio absorbance between 0.9 and 1.1 were considered borderline and were re-tested. The specificity and sensitivity declared was respectively 100% and 94.5%.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ELISA for SARS-CoV-2 Antibodies"
+        },
+        {
+            "text": "On all nasopharyngeal swabs collected for the study, SARS-CoV-2 RNA was sought by real-time polymerase chain reaction (PCR). Viral RNA was extracted from 140 \u00b5l of nasopharyngeal swab using a microspin column (QIAamp RNA viral kit, Qiagen GmbH, Hilden, Germany) in Qiagen platform. SARS-CoV-2 RNA was identified by performing a real-time PCR in a Light cycler 480 (Roche Diagnostics, Branchburg, NJ, USA) by REALQUALITY RQ-2019-nCoV (Ab ANALITICA, Padova, Italy), following the manufacturer's instructions. The PCR primers targeted SARS-CoV-2-gene RDRP and gene E.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "NAAT for SARS-CoV-2"
+        },
+        {
+            "text": "Continuous variables were expressed as median (IQR); categorical variables were expressed as number (%). Confidence intervals of sensitivity and specificity are \"exact\" Clopper-Pearson confidence intervals. All analyses were performed using STATA v16. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "As positive controls, a total of 32 serum samples from hospitalized patients with a diagnosis of COVID-19 were tested by LFAs and ELISA. All sera but 3 resulted positive in LFAs; all sera but one resulted positive in ELISA (Tables 1 and 2) . In particular, one serum resulted negative by both LFAs and ELISA, and 2 sera only in LFAs. Thus, the sensitivity of LFAs was 91.4% (95% CI: 76.9-98.2), that of ELISA test was 97.0% (95% CI: 84.2-99.9) (Tables 1 and 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 223,
+                    "end": 239,
+                    "text": "(Tables 1 and 2)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 444,
+                    "end": 460,
+                    "text": "(Tables 1 and 2)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Assessment of Sensitivity and Specificity by Positive and Negative Controls"
+        },
+        {
+            "text": "As negative controls, 30 serum samples collected before the COVID-19 outbreak were tested by LFA and ELISA. All serum samples resulted negative, both for LFAs and ELISA, showing a specificity for both tests of 100% (95% CI: 88.4-100.0) (Tables 1 and 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 236,
+                    "end": 251,
+                    "text": "(Tables 1 and 2",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Assessment of Sensitivity and Specificity by Positive and Negative Controls"
+        },
+        {
+            "text": "Sixty-five HWs agreed to be included in the study between May 2 and June 8. Of the HWs enrolled, 25 (38.5%) were male, the median age was 32 (IQR 28-43), 5 were patient-care technicians, 35 were nurses, 25 physicians (14 infectious diseases, 5 cardiologists and 6 pulmonologists) ( Table  3) . During the study no HW enrolled had fever or symptoms compatible with COVID-19. No-one showed any deviation from the protocol or close contact with SARS-COV-2 infected patients without personal protective equipment.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 282,
+                    "end": 291,
+                    "text": "Table  3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "The Characteristics of the Health Workers Enrolled"
+        },
+        {
+            "text": "Following our protocol, between May 8-13, between July 15-21 and between 17-30 August all HWs performed NAATs and no-one resulted positive for SARS-COV-2 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Characteristics of the Health Workers Enrolled"
+        },
+        {
+            "text": "From July 15 to 21 and from August 17 to 30, the ELISA test was performed in all 65 HWs enrolled and resulted negative in all.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Characteristics of the Health Workers Enrolled"
+        },
+        {
+            "text": "Overall, the 65 HWs enrolled performed 196 LFAs and ELISA tests for SARS-COV-2 antibodies: LFA and ELISA were performed three times in 64 HWs and four times in 1 subject.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Assessment of Sensitivity and Specificity by Analysis of HWs"
+        },
+        {
+            "text": "The median between the first and the last LFA and ELISA tests, excluding one performed after 21 days after the last COVID-19 patient was discharged, was 16 days (range 7-37). Of the 65 HWs enrolled, 6 (9.23%) tested positive in LFA; similarly, of the 196 LFA tests performed, 20 (10.2%) resulted in positive (Table 1) . Of the 6 positive subjects, 5 tested positive in all LFAs performed and one only tested positive in 1 test. All ELISA tests performed on serum samples collected from HWs were negative (Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 308,
+                    "end": 317,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 504,
+                    "end": 513,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Assessment of Sensitivity and Specificity by Analysis of HWs"
+        },
+        {
+            "text": "Considering the data on the HWs, the ELISA test for SARS-COV-2 antibodies showed a specificity of 100% (95% CI: 98.1-100.0), including all 196 serum samples collected, and 100% (95% CI: 94.48-100.00) including the 65 HWs ( Table 2 ). The specificity of LFAs was 90.77% (95% CI: 80.-98-96.54) considering only the 65 subjects and 89.80% (95% CI: 84.68-93.65) considering all 196 serum samples analyzed (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 223,
+                    "end": 230,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 401,
+                    "end": 410,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Assessment of Sensitivity and Specificity by Analysis of HWs"
+        },
+        {
+            "text": "Including the data of the negative controls on our HWs and the test performed 21 days after the last COVID-19 patient was discharged, the specificity of LFAs was 90.65% (95% CI: 74.98-98.02) and the specificity of the ELISA test was 100% (95% CI: 98.7-100.0) (Tables 1 and 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 259,
+                    "end": 274,
+                    "text": "(Tables 1 and 2",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Assessment of Sensitivity and Specificity by Analysis of HWs"
+        },
+        {
+            "text": "Although the management of the HWs working in COVID-19 units is fundamental in the infection control strategy, it lacks information for the best surveillance management.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "There is no validated screening program for HWs involved in COVID-19 management, and further studies are required to identify the best active surveillance. The WHO published interim guidance on \"Risk assessment and management of exposure of health workers in the context of COVID-19\", defining high and low risk depending on exposure. 11 HWs exposed to a high-risk infection should stop all healthcare interaction with patients and get tested for COVID-19, should stay in quarantine and daily self-monitor temperature and respiratory symptoms for 14 days after the last day of exposure to a COVID-19 patient. HWs considered at a low risk should self-monitor temperature and respiratory symptoms daily for 14 days after the last day of exposure to a COVID-19 patient. 11 However, various strategies of screening HWs have been put in place including active and passive surveillance. 12, 13 Considering active surveillance, various strategies have been used, based on NAAT or serological surveillance or both in order to reduce the limits of each test. Widely is the low sensitivity of serological tests in the early phase of infection, 2,12-17 due to the natural antibody dynamic with 100% positivity for IgG after 17-19 days from infection. 18 This delay can be limiting in a setting of HWs constantly exposed to SARS-CoV-2, hospital outbreaks. NAAT is one of the most expensive tests on the market, with the need for expert staff and adequate facilities, which limit its use in screening, making the serological test a preference especially in some population settings.",
+            "cite_spans": [
+                {
+                    "start": 767,
+                    "end": 769,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 881,
+                    "end": 884,
+                    "text": "12,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 885,
+                    "end": 887,
+                    "text": "13",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1240,
+                    "end": 1242,
+                    "text": "18",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The present study assessed two serological approaches, a rapid serological and ELISA test, for the surveillance of HWs exposed to SARS-CoV-2. To our knowledge, this study is the first study that compared the diagnostic performance of LFAs with ELISA tests in a large cohort of HWs in a COVID-19 unit. In our cohort of HWs the specificity of LFAs was lower than that identified for the ELISA test (89.80% vs 100%); including also the patients admitted to our hospital before the outbreak in China, the specificity was 89.30% for LFAs and 100% for the ELISA test. Moreover, considering the patients hospitalized in our COVID-unit, the sensitivity was lower in LFAs compared with that identified for ELISA (90.65% vs 96.88%). The low specificity of LFAs leaves a margin of doubt regarding the infection until the results of NAAT, creating difficulties in work organization and also psychological and social problems. The limitation 17 Ong et al, including patients presenting at a teaching hospital with respiratory symptoms, showed a very heterogeneous sensitivity using 5 different LFA kits, ranging from 2/20 (10%) to 11/20 (55%); after choosing the most sensitive LFA they tested 228 patients and showed a sensitivity of 43% and a specificity of 98%. 2 Although there was a variation in performance characteristics, antibody testing with LFAs offers an additional value for estimating infection rate among HWs in resource-limited countries where PCR or ELISA are not readily available. Indeed, the main benefit of LFAs is the availability of real-time results and the advantage of being easily repeatable making them potentially useful in hospital setting for HWs surveillance.",
+            "cite_spans": [
+                {
+                    "start": 929,
+                    "end": 931,
+                    "text": "17",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1252,
+                    "end": 1253,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The present study has, however, some limits to consider. First, this study included only one of the LFA and ELISA tests available on market. Second, the number of positive controls are limited, but in line with the literature. 2, 14 Third, fortunately, no HW was infected during the COVID-19 experience, but this means in our analysis we cannot compare the sensitivity of tests during the early phase of infection.",
+            "cite_spans": [
+                {
+                    "start": 227,
+                    "end": 229,
+                    "text": "2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 230,
+                    "end": 232,
+                    "text": "14",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, considering the data of the present study and those of the studies available in the literature, the LFA test does not seem to be indicated in the active surveillance of HWs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "LFA, lateral flow assay; NAAT, nucleic acid amplification test; HWs, Health workers; ELISA, enzyme-linked immunosorbent assay.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abbreviations"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19) Dashboard | WHO coronavirus disease (COVID-19) dashboard. Available from: https:// covid19.who.int",
+            "authors": [],
+            "year": 2020,
+            "venue": "WHO coronavirus disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Comparison of diagnostic accuracies of rapid serological tests and ELISA to molecular diagnostics in patients with suspected coronavirus disease 2019 presenting to the hospital",
+            "authors": [
+                {
+                    "first": "Dsy",
+                    "middle": [],
+                    "last": "Ong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "De Man",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lindeboom",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jgm",
+                    "middle": [],
+                    "last": "Koeleman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Microbiol Infect",
+            "volume": "26",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmi.2020.05.028"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Current status of laboratory diagnosis for covid-19: a narrative review",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Russo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Minichini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Starace",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Astorri",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cal\u00f2",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Coppola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Drug Resist",
+            "volume": "13",
+            "issn": "",
+            "pages": "2657--2665",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/IDR.S264020"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Evolving status of the 2019 novel coronavirus infection: proposal of conventional serologic assays for disease diagnosis and infection monitoring",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "5",
+            "pages": "464--467",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25702"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Analysis of adjunctive serological detection to nucleic acid test for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection diagnosis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int Immunopharmacol",
+            "volume": "86",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.intimp.2020.106746"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Differences in IP-10, TLR4 and IRF5/3 between SVR and non-SVR HCV-1 patients treated with PEG-IFN and ribavirin",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Mol Med Rep",
+            "volume": "15",
+            "issn": "4",
+            "pages": "2318--2324",
+            "other_ids": {
+                "DOI": [
+                    "10.3892/mmr.2017.6229"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Antibody detection and dynamic characteristics in patients with COVID-19",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa461"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Production of specific antibodies against SARS-coronavirus nucleocapsid protein without cross reactivity with human coronaviruses 229E and OC43",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Seok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Vet Sci",
+            "volume": "11",
+            "issn": "1",
+            "pages": "165--167",
+            "other_ids": {
+                "DOI": [
+                    "10.4142/jvs.2010.11.2.165"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "SARS-CoV-2 coronavirus nucleocapsid antigen-detecting half-strip lateral flow assay toward the development of point of care tests using commercially available reagents",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Grant",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Williford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Anal Chem",
+            "volume": "92",
+            "issn": "16",
+            "pages": "11305--11309",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acs.analchem.0c01975"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Beijing Wantai Biological Pharmacy Enterprise C o., Ltd",
+            "authors": [
+                {
+                    "first": "Sars",
+                    "middle": [],
+                    "last": "Wantai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Clinical presentation of covid-19: case series and review of the literature",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Macera",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "De Angelis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sagnelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Coppola",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "COVID-19 among healthcare workers in a specialist infectious diseases setting in Naples, Southern Italy: results of a cross-sectional surveillance study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fusco",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pisaturo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Iodice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Hosp Infect",
+            "volume": "105",
+            "issn": "4",
+            "pages": "596--600",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhin.2020.06.021"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Characteristics of 1573 healthcare workers who underwent nasopharyngeal swab testing for SARS-CoV-2 in Milan",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lombardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Consonni",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carugno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Microbiol Infect",
+            "volume": "26",
+            "issn": "10",
+            "pages": "1413--1422",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmi.2020.06.013"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Rapid point-of-care testing for SARS-CoV-2 in a community screening setting shows low sensitivity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "D\u00f6hla",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Boesecke",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schulte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Public Health",
+            "volume": "182",
+            "issn": "",
+            "pages": "170--172",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.puhe.2020.04.009"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Evaluation of two automated and three rapid lateral flow immunoassays for the detection of anti-SARS-CoV-2 antibodies",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Montesinos",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gruson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kabamba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "128",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2020.104413"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Diagnostic performance of seven rapid IgG/IgM antibody tests and the Euroimmun IgA/IgG ELISA in COVID-19 patients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Van Elslande",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Houben",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Depypere",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Microbiol Infect",
+            "volume": "26",
+            "issn": "8",
+            "pages": "1082--1087",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmi.2020.05.023"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Performance of VivaDiag COVID-19 IgM/IgG Rapid Test is inadequate for diagnosis of COVID-19 in acute patients referring to emergency room department",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Cassaniti",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Novazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Giardina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "10",
+            "pages": "1724--1727",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25800"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Onsite treatment of HCV infection with direct acting antivirals within an opioid treatment program",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Butner",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fabian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Subst Abuse Treat",
+            "volume": "75",
+            "issn": "",
+            "pages": "49--53",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jsat.2016.12.014"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Antibody responses to SARS-CoV-2 in patients with COVID-19",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "26",
+            "issn": "6",
+            "pages": "845--848",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0897-1"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Profiling early humoral response to diagnose novel coronavirus disease (COVID-19)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "71",
+            "issn": "15",
+            "pages": "778--785",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa310"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Study design. Infection and Drug Resistance 2020:13 submit your manuscript | www.dovepress.com DovePress 4503",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Result of LFAs in Different SettingsNotes: *HWs were defined positive, if tested positive in at least at one sample; HWs were defined negative, if tested negative in all samples. **Considering all tests performed over HWs population. Abbreviation: LFAs, lateral-flow assays.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Results of ELISA Tests in Different SettingsNotes: *HWs were defined positive, if tested positive in at least at one sample; HWs were defined negative, if tested negative in all samples. **Considering all tests performed over HWs population. Abbreviation: ELISA, enzyme-linked immunosorbent assay.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Description of HWs Enrolled Abbreviations: PPE, personal protective equipment; HWs, health workers. Infection and Drug Resistance 2020:13 submit your manuscript | www.dovepress.com DovePress4505of LFAs was suggested also in other settings.19,20 For example, in an emergency room department of a tertiary hospital in northern Italy on 110 subjects (30 healthy volunteers, 30 COVID-19-positive patients and 50 patients at their first access to an emergency room department with fever and respiratory syndrome), Cassaniti et al found that the sensitivity of LFA was 18.4%, specificity 91.7%, while NPV was 26.2% and PPV was 87.5%.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "All authors made substantial contributions to conception and design, acquisition of data, or analysis and interpretation of data; took part in drafting the article or revising it critically for important intellectual content; agreed to submit to the current journal; gave final approval of the version to be published; and agree to be accountable for all aspects of the work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author Contributions"
+        },
+        {
+            "text": "\"POR Campania FESR 2014-2020-Avviso per l'acquisizione di manifestazioni di interesse per la realizzazione di servizi di ricerca e sviluppo per la lotta contro il Covid-19\" (DGR n. 140 del 17 marzo 2020), Project: \"IDENTIFICAZIONE DEI FATTORI DEMOGRAFICI, CLINICI, VIROLOGICI, GENETICI, IMMUNOLOGICI E SIEROLOGICI ASSOCIATI AD OUTCOME SFAVOREVOLE NEI SOGGETTI CON COVID-19\", Regione Campania, Italy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "All the authors of the manuscript declare that they have no conflict of interest in connection with this paper.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Disclosure"
+        },
+        {
+            "text": "Infection and Drug Resistance is an international, peer-reviewed openaccess journal that focuses on the optimal treatment of infection (bacterial, fungal and viral) and the development and institution of preventive strategies to minimize the development and spread of resistance. The journal is specifically concerned with the epidemiology of antibiotic resistance and the mechanisms of resistance development and diffusion in both hospitals and the community. The manuscript management system is completely online and includes a very quick and fair peerreview system, which is all easy to use. Visit http://www.dovepress.com/ testimonials.php to read real quotes from published authors. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Publish your work in this journal"
+        }
+    ]
+}

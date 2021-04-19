@@ -1,0 +1,1838 @@
+{
+    "paper_id": "1c531c08fd9911b645a7fdf8f3bbe2d07503a4e1",
+    "metadata": {
+        "title": "medicina Glycemia, Beta-Cell Function and Sensitivity to Insulin in Mildly to Critically Ill Covid-19 Patients",
+        "authors": [
+            {
+                "first": "Ioannis",
+                "middle": [],
+                "last": "Ilias",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Aristidis",
+                "middle": [],
+                "last": "Diamantopoulos",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [],
+                "last": "Pratikaki",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Efthymia",
+                "middle": [],
+                "last": "Botoula",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Edison",
+                "middle": [],
+                "last": "Jahaj",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nikolaos",
+                "middle": [],
+                "last": "Athanasiou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stamatios",
+                "middle": [],
+                "last": "Tsipilis",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alexandros",
+                "middle": [],
+                "last": "Zacharis",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alice",
+                "middle": [
+                    "G"
+                ],
+                "last": "Vassiliou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dimitra",
+                "middle": [
+                    "A"
+                ],
+                "last": "Vassiliadi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anastasia",
+                "middle": [],
+                "last": "Kotanidou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stylianos",
+                "middle": [],
+                "last": "Tsagarakis",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ioanna",
+                "middle": [],
+                "last": "Dimopoulou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Evangelismos Hospital",
+                    "location": {
+                        "postCode": "GR-10676",
+                        "settlement": "Athens",
+                        "country": "Greece"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Citation: Ilias, I.; Diamantopoulos, A.; Pratikaki, M.; Botoula, E.; Jahaj, E.; Athanasiou, N.; Tsipilis, S.; Zacharis, A.; Vassiliou, A.G.; Vassiliadi, D.A.; et al. Glycemia, Beta-Cell Function and Sensitivity to Insulin in Mildly to Critically Ill Covid-19 Patients. Medicina 2021, 57, 68. https://",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Infection with coronaviridae may have repercussions in insulin secretion and glycemia [1] . Criticallyill and non-critically ill patients with SARS-CoV-2 infection (Covid-19) may present with higher-than-expected glycemia, even in the absence of diabetes [1] [2] [3] [4] [5] [6] [7] . Critically ill patients may show stress hyperglycemia [8] . In patients with diabetes and serious respiratory diseases, the glycemic gap (GlyG; defined by the admission blood glucose measurement minus the average glycemia as calculated from levels of glycated hemoglobin [A1c]) has been associated with prognosis [9] [10] [11] [12] . With this study we aimed to assess glucose, GlyG and insulin secretion/sensitivity measures in patients with Covid-19.",
+            "cite_spans": [
+                {
+                    "start": 86,
+                    "end": 89,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 255,
+                    "end": 258,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 259,
+                    "end": 262,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 263,
+                    "end": 266,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 267,
+                    "end": 270,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 271,
+                    "end": 274,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 275,
+                    "end": 278,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 279,
+                    "end": 282,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 339,
+                    "end": 342,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 598,
+                    "end": 601,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 602,
+                    "end": 606,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 607,
+                    "end": 611,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 612,
+                    "end": 616,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "We included in the study patients with polymerase chain reaction (PCR)-verified Covid-19 who were admitted in the wards or the intensive care units (ICU) of the largest Covid-19 referral hospital in Athens, Greece from April 2020 to October 2020. We did not include patients who were initially admitted to the wards and were transferred to the ICU. We measured blood glucose upon admission (presumed to be a fasting measurement, as the patients had not eaten for at least 6-8 h before this event) as well as their A1c upon admission (with the Roche/Hitachi Cobas c 501 analyzer, Rotkreuz ZG, Switzerland). We also measured at the same time plasma insulin and C-peptide (with Immulite 2000 chemiluminescence assays and analyzer, Siemens Healthcare Diagnostics, Inc., Tarrytown, NY, USA). We calculated the GlyG (as follows: GlyG = blood glucose upon admission (in mg/dL) \u2212 ([28.7 \u00d7 HbA1c (in %)] \u2212 46.7)) and the Homeostasis Model Assessment 2 (HOMA2) estimates of steady state beta cell function (HOMA2%B) and insulin sensitivity (HOMA2%S) [13] , as percentages of a normal reference population (available from the Diabetes Trials Unit, University of Oxford, Radcliffe Department of Medicine, Oxford, UK, https://www.dtu.ox.ac.uk/homacalculator/). We noted any administration of dexamethasone before blood sampling (if so it was done usually within minutes of the blood sampling and never exceeding an hour) as well as prior medical history or diagnosis/therapy of any form of diabetes (by searching physicians' documentation and electronic records from the Hellenic National Health service and querying the patients' next of kin) and the patients' disease outcome. Analysis of parameters was done with analysis of variance (ANOVA) or the Kruskal-Wallis test (according to the normality/non-normality of their distribution per a Kolmogorov-Smirnov test); statistical significance was set at p = 0.05. Power calculations were done post-hoc. Analysis was done with R (R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. ISBN 3-900051-07-0, URL http://www.R-project.org/). The Scientific Council/Ethics Board of the Evangelismos Hospital (No 170/24 April 2020) gave permission for this study and informed consent for the inclusion of the patients' anonymized data for study was given by the patients or their next of kin.",
+            "cite_spans": [
+                {
+                    "start": 1040,
+                    "end": 1044,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "From an initial group of 197 patients (107 ward/90 ICU), data for analysis were available for 157 who were retained (mean age \u00b1 standard deviation (SD) = 60.2 \u00b1 15.3 years; 84 in the Covid-19 wards and 73 in the ICU). Demographics and results of the laboratory assessment can be found in Tables 1 and 2 . Most patients had no past medical history of diabetes (n = 135). Patients with diabetes were treated with metformin (MTF) and/or inhibitors of dipeptidyl peptidase 4 (DPP4i) and/or sodium-glucose cotransporter-2 inhibitors (SGLT2i); no treatment had been given on the day of admission. Patients in the wards were younger while mortality was much higher in the ICU. Compared to patients in the wards without diabetes, patients with diabetes in the wards, as well as patients in the ICU (without or with diabetes) had higher admission glycemia. Vis-\u00e0-vis dexamethasone administration, significant differences were noted only regarding admission glucose (Figure 1 ). Nevertheless, either among patients that received dexamethasone or those that did not receive this treatment, patients in the wards with no history of diabetes had significantly lower glucose compared to patients in the ICU and/or positive history of diabetes ( Figure 1 ). There were no other significant differences vis-\u00e0-vis the effect of dexamethasone in A1c, GlyG or HOMA indexes (data not shown for brevity). Differences in A1c among the different groups did not reach statistical significance. The GlyG was significantly higher in patients without diabetes in the ICU compared to patients without diabetes in the wards. While insulin, C-peptide and insulin sensitivity indexes showed no significant differences among the study groups, HOMA2%B based on glucose and insulin (but not based on glucose and C-peptide) was significantly higher in the ICU patients compared to patients in the wards. Of all the parameters, HOMA2%S based on C-peptide/glucose was higher (and closer to the normal value of 100%) in survivors (median: 48.8%, first quartile: 32.0%, third quartile: 84.2%) compared to non-survivors (median: 14.0%, first quartile: 12.9%, third quartile: 17.5%; p = 0.008, regardless of admission to the ICU/ward or of history of diabetes). The post-hoc power with \u03b1 = 0.05 was 0.88, 0.44, 0.38 and 0.55 for glycemia, GlyG, HOMA2%B (based on glucose and insulin) and HOMA2%S Nevertheless, either among patients that received dexamethasone or those that did not receive this treatment, patients in the wards with no history of diabetes had significantly lower glucose compared to patients in the ICU and/or positive history of diabetes ( Figure 1 ). There were no other significant differences vis-\u00e0-vis the effect of dexamethasone in A1c, GlyG or HOMA indexes (data not shown for brevity). Differences in A1c among the different groups did not reach statistical significance. The GlyG was significantly higher in patients without diabetes in the ICU compared to patients without diabetes in the wards. While insulin, C-peptide and insulin sensitivity indexes showed no significant differences among the study groups, HOMA2%B based on glucose and insulin (but not based on glucose and C-peptide) was significantly higher in the ICU patients compared to patients in the wards. Of all the parameters, HOMA2%S based on C-peptide/glucose was higher (and closer to the normal value of 100%) in survivors (median: 48.8%, first quartile: 32.0%, third quartile: 84.2%) compared to non-survivors (median: 14.0%, first quartile: 12.9%, third quartile: 17.5%; p = 0.008, regardless of admission to the ICU/ward or of history of diabetes). The post-hoc power with \u03b1 = 0.05 was 0.88, 0.44, 0.38 and 0.55 for glycemia, GlyG, HOMA2%B (based on glucose and insulin) and HOMA2%S (based on glucose and C-peptide), respectively.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 288,
+                    "end": 302,
+                    "text": "Tables 1 and 2",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 956,
+                    "end": 965,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1231,
+                    "end": 1239,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 2617,
+                    "end": 2625,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "In our study, Covid-19 patients without diabetes had a relatively higher increase in glycemia, regardless of infection severity, compared to Covid-19 patients with diabetes. Critically ill patients with Covid-19 showed findings consistent with a degree of beta cell compromise; higher insulin sensitivity was associated with survival.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "A tentative association between Covid-19 and hyperglycemia has been suggested [1] [2] [3] [4] [5] 14] ; the profound inflammatory activation occurring with Covid-19 has been proposed to be associated with decreased insulin secretion and increased insulin resistance [14, 15] . In a previous publication, in critically ill Covid-19 patients without diabetes, we noted that a substantial number of them had hyperglycemia [4] , a finding in accordance with studies in China and the United States [2, 3, 5, 16] . Admission hyperglycemia has been associated with Covid-19 chest imaging findings [3] . This is possibly the first-to date-study on GlyG, HOMA2%B and HOMA2%S in Covid-19 patients. There are caveats in our study: on average, one of four critically ill patients with no history of diabetes has stress hyperglycemia (the tentative implicated mechanisms include the release of counter-regulatory hormones, the alteration of insulin receptor signaling caused by inflammation and the inhibition of pancreatic beta-cell function and of endogenous insulin secretion) [8, 17] . Thus, this stress hyperglycemia may obscure the glycemic profile of Covid-19 patients. In our patients no effect of dexamethasone administration was noted on the examined parameters [18] ; this could be explained by the short time interval between the injection and blood sampling. An effect of antidiabetic medications on beta cell function and sensitivity to insulin was present but we cannot ascertain to what degree; from the literature the effect of MTF and SGLT2i on indices of beta cell function has been reported to be in the magnitude of 10-15% (no appreciable effect has been reported for indices of sensitivity to insulin) [19] [20] [21] . Furthermore, sample size could be considered to be low, the number of patients with known diabetes was low at 14% of our total sample (interestingly this is closer to the actual prevalence of the disease in the general population) and there was no Covid-19-negative control group for proper comparisons (at the time the data were gathered, we did not seek a non-Covid-19 control group, choosing to hone on the differences between patients with mild and severe Covid-19 rather than between patients with and without . The study of hyperglycemia in non-diabetic Covid-19 patients presents a field of ongoing research, particularly with the CoviDIAB Project, an international registry of Covid-19 patients with no history of diabetes that present with hyperglycemia [22] .",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 81,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 82,
+                    "end": 85,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 86,
+                    "end": 89,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 90,
+                    "end": 93,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 94,
+                    "end": 97,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 98,
+                    "end": 101,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 266,
+                    "end": 270,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 271,
+                    "end": 274,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 419,
+                    "end": 422,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 493,
+                    "end": 496,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 497,
+                    "end": 499,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 500,
+                    "end": 502,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 503,
+                    "end": 506,
+                    "text": "16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 590,
+                    "end": 593,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1067,
+                    "end": 1070,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1071,
+                    "end": 1074,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1259,
+                    "end": 1263,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1711,
+                    "end": 1715,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1716,
+                    "end": 1720,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1721,
+                    "end": 1725,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 2491,
+                    "end": 2495,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In our series of patients with Covid-19, a substantial number of patients with and without diabetes had admission hyperglycemia and those who were critically ill may have had compromised insulin secretion and lowered sensitivity to insulin. These findings lend credence to reports of association between Covid-19 and hyperglycemia/secondary diabetes. The latter may also complicate Covid-19 with superinfection. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Hyperglycemia and the novel Covid-19 infection: Possible pathophysiologic mechanisms",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ilias",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zabuliene",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "139",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mehy.2020.109699"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: A descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--513",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30211-7"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Admission hyperglycemia and radiological findings of SARS-CoV2 in patients with and without diabetes",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Iacobellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Penaherrera",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bermudez",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bernal Mizrachi",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Diabetes Res. Clin. Pract",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.diabres.2020.108185"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical Study of Hyperglycemia and SARS-CoV-2 Infection in Intensive Care Unit Patients",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ilias",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jahaj",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kokkoris",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zervakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Temperikidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Magira",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pratikaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Vassiliou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Routsi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kotanidou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "34",
+            "issn": "",
+            "pages": "3029--3032",
+            "other_ids": {
+                "DOI": [
+                    "10.21873/invivo.12136"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients with Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA Intern",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamainternmed.2020.0994"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The Impact of COVID-19 on Blood Glucose: A Systematic Review and Meta-Analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fendo.2020.574541"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Admission hyperglycaemia as a predictor of mortality in patients hospitalized with COVID-19 regardless of diabetes status: Data from the Spanish SEMI-COVID-19 Registry",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Carrasco-S\u00e1nchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "L\u00f3pez-Carmona",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mart\u00ednez-Marcos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "P\u00e9rez-Belmonte",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hidalgo-Jim\u00e9nez",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Buonaiuto",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Su\u00e1rez Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Freire Castro",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Luordo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pesqueira Fontan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Ann. Med",
+            "volume": "2021",
+            "issn": "",
+            "pages": "103--116",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07853890.2020.1836566"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Stress hyperglycaemia in critically ill patients and the subsequent risk of diabetes: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "Ali",
+                    "middle": [],
+                    "last": "Abdelhamid",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kar",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Finnis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Phillips",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plummer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Horowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Deane",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Crit. Care",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13054-016-1471-6"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The Glycemic Gap and 90-Day Mortality in Community-acquired Pneumonia. A Prospective Cohort Study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Baunbaek Egelund",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bang Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Benfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Witzenrath",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rohde",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ravn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Faurholt-Jepsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Ann. Am. Thorac. Soc",
+            "volume": "16",
+            "issn": "",
+            "pages": "1518--1526",
+            "other_ids": {
+                "DOI": [
+                    "10.1513/AnnalsATS.201901-007OC"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "An Elevated Glycemic Gap is Associated with Adverse Outcomes in Diabetic Patients with",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tsai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Acute Myocardial Infarction. Sci. Rep",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/srep27770"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Association between Glycemic Gap and Adverse Outcomes in Critically Ill Patients with Diabetes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Donagaon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dharmalingam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Indian J. Endocrinol. Metab",
+            "volume": "22",
+            "issn": "",
+            "pages": "208--211",
+            "other_ids": {
+                "DOI": [
+                    "10.4103/ijem.IJEM_580_17"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Glycated hemoglobin A1c-based adjusted glycemic variables in patients with diabetes presenting with acute exacerbation of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tsai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int. J. Chron. Obstruct. Pulmon. Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "1923--1932",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/COPD.S131232"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Use and abuse of HOMA modeling",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wallace",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Matthews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Diabetes Care",
+            "volume": "27",
+            "issn": "",
+            "pages": "1487--1495",
+            "other_ids": {
+                "DOI": [
+                    "10.2337/diacare.27.6.1487"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Covid-19 and Diabetes: A Complex Bidirectional Relationship",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Muniangi-Muhitu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Akalestou",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Salem",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Misra",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Oliver",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rutter",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fendo.2020.582936"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19 and diabetes mellitus: From pathophysiology to clinical management",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bae",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kwon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nauck",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Nat. Rev. Endocrinol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--20",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41574-020-00435-4"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Glycemic Characteristics and Clinical Outcomes of COVID-19 Patients Hospitalized in the United States",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bode",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Garrett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Messler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mcfarland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Booth",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Klonoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Diabetes Sci. Technol",
+            "volume": "14",
+            "issn": "",
+            "pages": "813--821",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1932296820924469"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Association of multiple glycemic parameters at intensive care unit admission with mortality and clinical outcomes in critically ill patients",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bellaver",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Schaeffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Dullius",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Viana",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Leit\u00e3o",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Rech",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Sci. Rep",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41598-019-55080-3"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Inpatient use of glucocorticoids may mediate the detrimental effect of new-onset hyperglycemia on COVID-19 severity",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Diabetes Res. Clin. Pract",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.diabres.2020.108441"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Efficacy and safety of canagliflozin in combination with insulin: A double-blind, randomized, placebo-controlled study in Japanese patients with type 2 diabetes mellitus",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Inagaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harashima",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Maruyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Goda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Iijima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cardiovasc. Diabetol",
+            "volume": "15",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12933-016-0407-4"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Efficacy and tolerability of canagliflozin as add-on to metformin in the treatment of type 2 diabetes mellitus: A meta-analysis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Eur. J. Clin. Pharmacol",
+            "volume": "71",
+            "issn": "",
+            "pages": "1325--1332",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00228-015-1923-y"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Insulin secretion and sensitivity as determinants of HbA1c in type 2 diabetes",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Monnier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Colette",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Thuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lapinski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Eur. J. Clin. Investig",
+            "volume": "36",
+            "issn": "",
+            "pages": "231--235",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-2362.2006.01623.x"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "New-Onset Diabetes in Covid-19",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Rubino",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Amiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zimmet",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Alberti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bornstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Eckel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mingrone",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Boehm",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "383",
+            "issn": "",
+            "pages": "789--790",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2018688"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Admission glucose level in patients that did not receive dexamethasone (unshaded) or that received dexamethasone (shaded); * p = 0.0077 (no dexamethasone) and ** p = 0.00003 (dexamethasone), respectively, Kruskal-Wallis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Admission glucose level in patients that did not receive dexamethasone(unshaded)   or that received dexamethasone (shaded); * p = 0.0077 (no dexamethasone) and ** p = 0.00003 (dexamethasone), respectively, Kruskal-Wallis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Contributions: Conceptualization: I.I. and I.D.; methodology: I.I. and I.D.; software: I.I.; validation: I.I. and I.D.; formal analysis: I.I.; investigation: I.I., A.D., M.P., E.B., E.J., N.A., S.T. (Stamatios Tsipilis), A.Z., A.G.V., D.A.V., A.K. and I.D.; resources: A.K., S.Ts. (Stylianos Tsagarakis) and I.D.; data curation: I.I., E.J. and I.D.; writing-original draft preparation: I.I. and I.D.; writing-review and editing: I.I. and I.D.; supervision: S.T. (Stylianos Tsagarakis) and I.D.; project administration: I.I., A.K. and I.D. All authors have read and agreed to the published version of the manuscript.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "This research received no external funding.Institutional Review Board Statement:The study was conducted according to the guidelines of the Declaration of Helsinki, and approved by the Scientific Council/Ethics Board of the Evangelismos Hospital, Athens, Greece (No 170/24 April 2020).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Patients demographics, admission data, outcome; data are given as means \u00b1 SD or counts.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Patients' laboratory evaluation upon admission; data are given as means \u00b1 SD or median (1st/3rd quartile).",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.Data Availability Statement: Data are available from the corresponding author upon request.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ]
+}

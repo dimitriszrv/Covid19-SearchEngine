@@ -1,0 +1,1730 @@
+{
+    "paper_id": "1dcbbf0023636b2544ce03c62733912297364b97",
+    "metadata": {
+        "title": "Joint Investigation of Two-Month Post-Diagnosis IgG Antibody Levels and Psychological Measures for Assessing Longer Term Multi-Faceted Recovery among COVID-19 Cases in Northern Cyprus",
+        "authors": [
+            {
+                "first": "Burc",
+                "middle": [],
+                "last": "Barin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elcin",
+                "middle": [],
+                "last": "Banu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fatma",
+                "middle": [],
+                "last": "Yoldascan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Goncagul",
+                "middle": [],
+                "last": "Savaskan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tugce",
+                "middle": [],
+                "last": "Ozbalikci",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Karaderi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "H\u00fcseyin",
+                "middle": [],
+                "last": "\u00c7akal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [
+                    "*"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Following the outbreak of COVID-19, multidisciplinary research focusing on the longterm effects of the COVID-19 infection and the 'complete longer term recovery' is still scarce. With regards to long-term consequences, biomarkers of physiological effects as well as the psychological experiences are of significant importance for comprehensively understanding the whole COVID-19 recovery period. The present research surveys the IgG antibody titers and the impact of COVID-19 as a traumatic experience in the aftermath of the active infection period, around two months after diagnosis, in a subset of COVID-19 patients from the first wave of the outbreak in Northern Cyprus. Associations of antibody titers and psychological survey measures with baseline characteristics and disease severity were explored, and correlations among various measures were evaluated. Of the 47 serology tests conducted for presence of IgG antibodies, 39 (83%) were positive. We identified trends demonstrating individuals experiencing severe or critical COVID-19 disease and/or those with comorbidities are more heavily impacted both physiologically and mentally, with higher IgG titers and negative psychological experience compared to those with milder disease and without comorbidities. We also observed that more than half of the COVID-19 cases had negative psychological experiences, being subjected to discrimination and verbal harassment/insult, by family/friends. In summary, as the first study co-evaluating immune response together with mental status, our findings suggest that further multidisciplinary research in larger sample populations as well as community intervention plans are needed to holistically address the physiological and psychological effects of COVID-19 among the cases in the long-term.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "infection, both biologically and psychologically during the 'longer term recovery' period after discharge from the hospital/isolation. With regards to long-term effects, biomarkers of physiological effects as well as the psychological experiences are of significant importance for a comprehensive understanding of the COVID-19 recovery period (2) . COVID-19 as a life threatening infection can act as an acute stressor (3) and stress can have a down-regulatory effect on the immune system (4) . The present research surveys the IgG antibody titers and the impact of COVID-19 as a traumatic experience both during and in the aftermath of the active infection period.",
+            "cite_spans": [
+                {
+                    "start": 343,
+                    "end": 346,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 419,
+                    "end": 422,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 489,
+                    "end": 492,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "There is insufficient information on the immune response to COVID-19 (e.g. prevalence of different antibodies against the infection over time and development of long-term immunity). It is essential to better understand the timeline of immune response including the appearance of immunoglobulin M (IgM) and immunoglobulin G (IgG) antibodies, their lifespan and whether they are protective, at least partially, against a second infection. Preliminary research shows that detectable IgG antibodies generally start appearing after the first week after symptom onset, reach a peak around two to three weeks, and stay at detectable blood levels at least for a duration of 2-3 months even in milder cases, similar to previous observations in other SARS infections (5) (6) (7) . Moreover, the psychological effects of having the infection are also complex. The risk of having severe COVID-19, the overall disease burden, along with many unknowns about its short-and long-term effects, increase the stigma attached to the infection and the related anxiety among the public, and make COVID-19 cases vulnerable to post-traumatic stress as well as targets for harassment and discrimination (8) . It is presumed that the period of complete physiological and psychological recovery from the infection depends on disease severity and other physiological and socioeconomic factors. However, given all the elaborate aspects of COVID-19 yet to be investigated and understood, the long-term multi-faceted recovery period is still far from being deciphered.",
+            "cite_spans": [
+                {
+                    "start": 757,
+                    "end": 760,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 761,
+                    "end": 764,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 765,
+                    "end": 768,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1178,
+                    "end": 1181,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "From a psychological point of view, initial findings suggest that both the disease itself and the negative consequences of the lockdown imposed by governments to curb the spread of the disease could result in negative coping behaviour which includes but is not limited to panic, anxiety, stigmatization, and post-traumatic stress disorder (PTSD) (3). As scarce research shows, these reactions can also be influenced by contextual factors such as a history of war, famine, and the size of the population. More specifically, while smaller nations might appear to have the upper hand in rapid enforcement of measures, contextual factors such as the increased connectivity of the individuals in smaller societies, or negative collective experiences of war and famine in the past might increase the prevalence of negative coping behaviours and stigma induced depression (9) .",
+            "cite_spans": [
+                {
+                    "start": 865,
+                    "end": 868,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A particular case in point is Northern Cyprus, governed by a state that remains internationally unrecognized, and hence, not included in the global epidemiological COVID-19 statistics. In the first wave of the COVID-19 outbreak in Northern Cyprus, 108 cases were diagnosed between 10 March and 16 April 2020. The authorities responded promptly and lockdown was imposed on March 11 (9) effectively halting education and government offices, and all other services except those considered essential. In addition to the global scare about the pandemic, the small community setting in Northern Cyprus (an estimated total population of around 400,000) with a history of war and trauma (10) further caused an intensified disease stigma. On the one hand, panic engulfed the small nation and there was widespread stigma toward those who tested positive or considered high-risk for transmitting the disease, i.e. Turkish Cypriots living abroad, who were brought home and quarantined (11) . On the other hand, videos of individuals under duress as a result of being quarantined were widely circulated in the social media and the public reacted negatively (12). Similarly, those who were tested positive recounted psychological trauma as their names made public and have been targeted (13) . Therefore, there is sufficient grounds to assume that in addition to the physiological impact of the disease, those who tested positive for the COVID-19 have also experienced psychological distress during and after the active infection period. In fact, in an earlier study conducted in Wuhan (China), the prevalence of significant posttraumatic stress symptoms associated with COVID-19 was estimated as 96.2% among clinically stable COVID-19 cases at discharge from quarantine (14) . Taken together, these observations suggest that assessing the biological markers of physiological effects vis-\u00e0-vis negative psychological experiences of the COVID-19 cases is important for holistic management of COVID-19 patients from diagnosis to potentially complete physiological and psychological recovery.",
+            "cite_spans": [
+                {
+                    "start": 973,
+                    "end": 977,
+                    "text": "(11)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1273,
+                    "end": 1277,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1757,
+                    "end": 1761,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The present research surveys the immune response (IgG antibody titers) and negative psychological experiences among the COVID-19 cases in the extended recovery period in the small society setting of Northern Cyprus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We performed a joint investigation of the immune response and mental status of the COVID-19 cases at an average time of two months after diagnosis. These two main outcomes of interest comprise the longer term recovery of the cases. Of the 108 cases diagnosed, 32 were tourists on the island: two died with the disease, and the remaining 30 individuals returned to their country after discharge. Of the remaining 76 individuals residing in Northern Cyprus, two died with the disease. A total of 74 individuals were invited to participate in the post-discharge assessment of antibody development and psychological impact. For the psychological evaluation, eight individuals under the age of 18 as well as three individuals who did not speak Turkish/English fluently were excluded from the study. Hence, a total of sixty-three individuals were eligible to participate in the psychological evaluation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants and Study Design"
+        },
+        {
+            "text": "All subjects were informed about both components of the study, provided informed consent acknowledging voluntary participation, option to withdraw from study at any time, and the confidentiality of their antibody results and their responses to the survey.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants and Study Design"
+        },
+        {
+            "text": "All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Eligibility Criteria"
+        },
+        {
+            "text": "(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Eligibility Criteria"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted September 1, 2020. . ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Eligibility Criteria"
+        },
+        {
+            "text": "Blood samples were taken by trained nurses during home visits. Venipuncture was used to collect blood. 10ml complete gel barrier formation tubes were used for blood collection (See Supplementary Text for the details).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Blood Collection and Transfer"
+        },
+        {
+            "text": "The SARS-CoV-2 IgG assay is a chemiluminescent microparticle immunoassay (CMIA) intended for both the quantitative and qualitative detection of IgG antibodies to the nucleocapsid protein of SARS-CoV-2 in human blood serum and plasma. Assay specifications indicate that the SARS-CoV-2 IgG assay is intended for use as an aid in identifying individuals with an adaptive immune response to SARS-CoV-2, indicating recent or prior infection. This assay is only for use under the Food and Drug Administration's Emergency Use Authorization. Per the assay's recommended definition, we defined positive IgG response in the study as a titer level \u2265 1.4 index signal/cutoff (s/co) (15) . Assays were run on Abbott's ARCHITECTPlus i2000 SR System.",
+            "cite_spans": [
+                {
+                    "start": 670,
+                    "end": 674,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Serology Testing"
+        },
+        {
+            "text": "The reported positive predictive agreement (PPA) for the assay at \u226514 days postsymptom onset was 100.0% (95% confidence-interval (CI): 95.9%-100%) while the negative predictive agreement (NPA) was 99.6% (95% CI: 99.1%-99.9%). Performance characteristics of the assay were independently evaluated in a study conducted in Boise, Idaho, where specificity and sensitivity were reported as 99.90% and 100% (starting at day 17 after symptom onset), respectively (16) .",
+            "cite_spans": [
+                {
+                    "start": 456,
+                    "end": 460,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Serology Testing"
+        },
+        {
+            "text": "Whenever possible, we adapted and used already tested and validated measures to assess the negative psychological experiences of the cases. More specifically, we assessed experiencing COVID-19 as a life changing trauma, negative emotions, perceived importance of preventive measures, awareness and habits, initial reaction to diagnosis, evaluation of general health, stigma, perceived discrimination, post-traumatic anxiety, and evolving perspectives after discharge. Ordinal response scales with five levels were used for each question. Higher values indicated stronger experience of COVID-19 as a life changing trauma, perceived higher importance of preventive measures, stronger initial reaction to diagnosis, more positive evaluation of general health, more perceived discrimination, higher post-traumatic anxiety, and stronger anticipation of future COVID-19 related anxiety.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Psychological Measures"
+        },
+        {
+            "text": "We assessed the internal reliability of our multi-item measures via Chronbach's alpha (\u03b1>0.70; See Supplementary Material -Psychological Survey for the full Questionnaire). All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Psychological Measures"
+        },
+        {
+            "text": "(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Psychological Measures"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted September 1, 2020. . Experiencing COVID-19 as a life-changing traumatic was measured with three items (\u03b1=0.84) adapted from (17) . Negative emotions during the recovery were assessed by four items (\u03b1=0.79). Perceived discrimination on the basis of being COVID-19 positive was measured by six items (\u03b1=0.90) adapted from (18) . We also measured anxiety related to anticipated stigma in the future as a result of COVID-19 diagnosis with two items (r=0.82, p<0.001). We measured subjective evaluation of health before the diagnosis and after the discharge with a single item each. Willingness to help others by sharing information was measured by a single item and perceived importance of protective measures by 4 items (\u03b1=0.96).",
+            "cite_spans": [
+                {
+                    "start": 183,
+                    "end": 187,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 379,
+                    "end": 383,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Psychological Measures"
+        },
+        {
+            "text": "Analysis of quantitative IgG titers was conducted via non-parametric tests: Wilcoxon rank-sum test (for factors with two levels) and Kruskal-Wallis test (for factors with three or more levels). We computed descriptive statistics for the socio-demographics factors and summary measures (mean score (M) with standard deviation (SD)) for psychological processes, and conducted Pearson correlation tests to explore whether the selected psychological processes were associated with each other. All multi-item measures and single items use 5-point Likert scales (1 lowest, 5 highest) and have a mid-level at 2.5. Disease severity was defined as critical (requiring intensive care), severe (requiring oxygen therapy, but otherwise stable) and mild/moderate (all other cases). P-values less than 0.001 were displayed as \"p<0.001\". Statistical significance was defined as p < 0.05. Multivariate analyses were not carried out due to small sample size. Analyses were performed using SAS version 9.4 (SAS, Cary, NC, USA).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Of the 74 cases eligible for serology testing, 47 (64%; 60% women and 40% men) accepted the invite and provided blood for testing. Median [interquartile range (IQR)] time from initial COVID-19 diagnosis to blood draw for serology testing was 66 [63.5-73] days with min-max of 50-86 days. Of the 63 cases eligible for responding to the psychological survey, 41 (65%) responded to survey questions ( Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 398,
+                    "end": 406,
+                    "text": "Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Baseline Characteristics"
+        },
+        {
+            "text": "For the serology testing, 19% were <30 years of age, 53% were between 30-60 years old, and 28% were \u226560 years of age. At the time of COVID-19 diagnosis, 79% and 47% of the serology analysis participants reported 'at least one symptom' and 'fever history', respectively. Thirty-two percent had at least one comorbidity -most frequently hypertension (N=9) and diabetes (N=5, two with concurrent hypertension). COVID-19 disease severity was severe or critical for 9 (19%) cases and mild/moderate for the remaining 38 (81%). For the psychological survey, distributions of participant baseline and disease severity characteristics were similar to those of the blood serology analysis ( Table 1) . Detailed cross-tabulation of baseline characteristics and disease severity by age group is displayed in Supplementary Table 1.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 681,
+                    "end": 689,
+                    "text": "Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Baseline Characteristics"
+        },
+        {
+            "text": "Of the 47 serology tests conducted for IgG antibody development, 39 (83%) were positive and 8 (17%) were negative. All of the negative results came from individuals All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serology"
+        },
+        {
+            "text": "(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serology"
+        },
+        {
+            "text": "We report the descriptive statistics and the associations between negative psychological processes in Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 102,
+                    "end": 109,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Negative Psychological Experiences"
+        },
+        {
+            "text": "Perception of COVID-19 diagnosis as a life changing traumatic event (CALCT) revealed a mean score of 3.17 [SD 1.41], which is above the mid-level. Figure 2 displays the distribution of CALCT scores by baseline characteristics and disease severity. Similar to the IgG titer analysis, the factors that have shown trends for the most impact on CALCT scores at a median follow-up of two months post-diagnosis was disease severity, followed by presence of a comorbidity. Mean (SD) CALCT scores in mild/moderate and severe/critical disease groups were 3.01 (1.38) and 3.95 (1.42), respectively (Wilcoxon rank-sum test; p=0.10). For individuals with a comorbidity, mean (SD) CALCT score was 3.53 (1.48) as compared to 3.02 (1.39) in those without (Wilcoxon rank-sum test; p=0.30).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 147,
+                    "end": 155,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Negative Psychological Experiences"
+        },
+        {
+            "text": "Among the individual questions measuring the negative psychological experiences, twenty-four (59%) respondents indicated a change in their perspective on life and their priorities due to the COVID-19 infection. All six (100%) responders to the question with severe/critical disease and 18 out of 33 (55%) responders with mild/moderate disease indicated a change in their perspective on life and their priorities due to the COVID-19 infection. 19 (46%) individuals indicated that they have become a more worried/anxious person because of the infection, and 20 (49%) perceived the infection period as a turning point in their lives (42% and 75% of the individuals with mild/moderate and severe/critical disease, respectively) (Supplementary Table 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 739,
+                    "end": 746,
+                    "text": "Table 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Negative Psychological Experiences"
+        },
+        {
+            "text": "The mean score for the negative emotions due to COVID-19 diagnosis was 2.61 (SD 1.25) and also above the mid-level of the scale (2.5). As for the individual emotions, felt as an initial reaction to COVID-19 diagnosis, worry ranked the first with 71% of respondents having felt it moderately, a lot or quite a lot, followed by helplessness (47%), fear of death (31%) and guilt due to not being sufficiently self-protected (19%). Fear of death and helplessness were both reported moderately or above by 27% and 50% of individuals in the mild/moderate and severe/critical disease severity groups, respectively (Supplementary Table 5 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 622,
+                    "end": 629,
+                    "text": "Table 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Negative Psychological Experiences"
+        },
+        {
+            "text": "Additional analyses of our psychological measures revealed that perceiving COVID-19 as a life changing trauma is strongly and positively associated with experiencing negative emotions (r=0.54, p<0.001); perceived discrimination (r=0.54, p<0.001); and future stigma related anxiety (r=0.54, p<0.001). Similarly, perceived importance of protective measures is again strongly and positively associated with pro-social tendencies (r=0.41, p<0.001). Last but not least, perceived discrimination at present is strongly and positively associated future stigma related anxiety (r=0.80, p <0.001) ( Table 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 590,
+                    "end": 598,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Negative Psychological Experiences"
+        },
+        {
+            "text": "We detected IgG antibodies in 39 (out of 47; 83%) of cases after a median of 66 days, which was a considerably longer follow-up period compared to the previous serological studies on IgG (on average up to ~30 days; [19] [20] [21] . This observation confirms that IgG antibodies are still detectable in the blood in most COVID-19 cases around 2 months post-diagnosis. However, further studies are necessary to determine the neuralizing activity of these antibodies and whether they provide any immunity against a second infection. Moreover, severe/critical COVID-19 cases most of whom were older and/or with comorbidities had higher IgG titers, and also showed trends for the most impact mentally. Overall, we conclude that more specialized attention should be paid to this group for providing further monitoring and treatment post-discharge because of their higher healthcare needs related to comorbidities as well as the psychological impact in order to expedite the full recovery period after the infection.",
+            "cite_spans": [
+                {
+                    "start": 215,
+                    "end": 219,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 220,
+                    "end": 224,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 225,
+                    "end": 229,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "Our analyses replicated the previous observations that disease severity is an important predictor of blood IgG levels (19) (20) (21) , and confirmed that this observation holds true in the longer follow-up period we examined. Furthermore, among individuals with mild or moderate disease, we observed that those with comorbidities had significantly higher IgG levels (Supplementary Table 3) . Similarly, Liu et al. observed that besides the severe COVID-19 cases who tended to have a more vigorous IgG response, a subset of the cases with mild disease had a robust IgG antibody response, and suggested that age and comorbidities may impact the timing and magnitude of the immune response (21) . Fever reported at the time of diagnosis also hinted at a possible association with postdischarge IgG levels, but studies with larger case numbers are needed to evaluate these potential predictors of IgG levels with respect to potential confounders such as age, sex, different types of co-morbidities (e.g. autoimmune and endocrine-related diseases) and disease severity via multivariate models. All these factors with potential association to All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 123,
+                    "end": 127,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 128,
+                    "end": 132,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 687,
+                    "end": 691,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 366,
+                    "end": 389,
+                    "text": "(Supplementary Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted September 1, 2020. .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "higher IgG titers are correlated with each other, and reflect increased disease burden during diagnosis and post-discharge (Supplementary Table 1 ). It is known that severity of COVID-19 is associated with a dysregulated immune response, and hence, further investigation of how dysregulated immune response is reflected in the long-term blood antibody levels may provide insights into the biological mechanism of the disease and support development of effective vaccines that are based on long-term immune response (22, 23) .",
+            "cite_spans": [
+                {
+                    "start": 515,
+                    "end": 519,
+                    "text": "(22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 520,
+                    "end": 523,
+                    "text": "23)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 138,
+                    "end": 145,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "In line with previous research, one in every two individuals with severe/critical disease felt fear of death and helplessness while one in every four individuals with mild/moderate disease felt these two emotions. Worry was the most commonly expressed emotion among the five emotions queried, with 71% of respondents having felt it moderately or more. Based on the responses to the psychological survey about two months after diagnosis, we infer that most cases have not yet recovered from the mental impact of the disease. Participants experienced COVID-19 as a life-changing trauma, experienced negative emotions, perceived themselves as discriminated against and experienced anxiety due to anticipated stigma in the future. In addition to replicating previous research on the negative psychological consequences of being tested positive for an infectious disease and that pandemics have a lasting negative impact on mental health among the general population (24) (25) (26) , our findings also show that cases experienced anxiety as a result of anticipated stigma. This is a novel finding which reveals that pandemics like COVID-19 have long-term negative mental health effects. Future research could replicate and extend these findings via longitudinal designs.",
+            "cite_spans": [
+                {
+                    "start": 962,
+                    "end": 966,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 967,
+                    "end": 971,
+                    "text": "(25)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 972,
+                    "end": 976,
+                    "text": "(26)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "Post-traumatic stress is an important part of this disease due to its overall severity, global impact and stigma attached to it. About half of the survey respondents reported being a more worried person due to the infection, and perceiving the infection as a turning point in their life. About one in four individuals also reported concern that their relationship with their workplace and family/friends will deteriorate due to infection. Hence, community resources for provision of psychological support to the COVID-19 cases post-discharge is very important to minimize the long-term impact of the disease and maintain mental health in these individuals. In Northern Cyprus, a number of organizations and universities have already taken action and set up psychological counseling hotlines, free for use by the public (9) . These initiatives are very important and need to be expanded throughout the counties, regions and globally. However, more tailored intervention programs are needed especially for COVID-19 cases to combine mental check-ups with regular health check-ups at regular intervals. About one in ten individuals thought they could still transmit the disease. This provides another example of importance of using up-to-date medical info about the disease, and the person's current status in providing tailored therapy to the person for getting over pre-conceived notions about fear of continuing disease in the individual.",
+            "cite_spans": [
+                {
+                    "start": 819,
+                    "end": 822,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "Overall perception about the disease as a threat varied with disease severity (Supplementary Table 12) . While more than half of the cases with mild/moderate disease deemed the infection was nothing to be afraid of, only one in four thought the same among the severe/critical cases. Therefore, a consistent public communication strategy is needed to ensure public perception of the disease will not change over time from a conscious alertness to the disease being 'nothing to be afraid of' due to sharing of experiences/perceptions by an estimated 80% of the cases in the mild/moderate severity group among the community.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 78,
+                    "end": 102,
+                    "text": "(Supplementary Table 12)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "The study is subject to a number of limitations. Although our study participation rates of 64% (serology) and 65% (psychology) among discharged COVID-19 cases are acceptable for an exploratory study such as this one. There may be some differences between individuals willing and unwilling to participate in the study, especially with respect to psychological endpoints. Actually, we observed lower participation rates in the study by cases from a rural region that was more severely impacted by the outbreak and had to go under a regional quarantine for an extended time. Disease stigma, continuing worry, suspicion and mistrust likely led to lower participation rates, and these factors are directly related to psychological endpoints studied here. To facilitate a more practical implementation in the field, it was not possible to use a consistent time point for evaluation of the outcomes of interest. Nevertheless, timing of blood draw and survey response showed limited variability around a two-month time point post-diagnosis, with median [IQR] and range time being 66 [63.5-73] and 50-86 days, respectively. There were possibly correlated responses for either or both endpoints as we allowed participation of multiple family or household members in the study. There were eight families that were represented in the study with 2-3 members each. Finally, compared to continuous IgG titer measures, categorical nature of the survey responses produced higher variability in calculated psychological process scores, and hence, lower statistical power in detecting any associations with baseline factors and disease severity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "In conclusion, this is the first study jointly evaluating post-discharge blood antibody levels and psychological status at a median time of two months after diagnosis. Severe/critical COVID-19 cases had higher blood IgG antibody levels as well as the highest long-term mental impact. Holistic and a more personalized approach is needed for post-discharge monitoring and treatment of COVID-19 cases, with a focus on older age, comorbidity status and disease severity. M=Mean, SD=Standard Deviation Note. Standardized coefficients are shown. Scales went from 1 (strongly disagree) to 5 (strongly agree). ** p<0.001; ns: non-significant (p\u22650.05). All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Section IV. Conclusions"
+        },
+        {
+            "text": "(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Figure Legends"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted September 1, 2020. . https://doi.org/10.1101/2020.08.27.20178160 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Figure Legends"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Coronavirus disease (COVID-19)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Multidisciplinary research priorities for the COVID-19 pandemic : a call for action for mental health science",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C O"
+                    ],
+                    "last": "Connor",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Perry",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tracey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wessely",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Arseneault",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bullmore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "7",
+            "issn": "",
+            "pages": "30168--30169",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2215-0366(20"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Psychosocial impact of COVID-19. Diabetes and Metabolic Syndrome Clinical Research and Reviews",
+            "authors": [
+                {
+                    "first": "Souvik",
+                    "middle": [
+                        "&amp;"
+                    ],
+                    "last": "Dubey",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Biswas",
+                    "suffix": ""
+                },
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Payel",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Ritwik",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Subhankar",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Dubey",
+                    "suffix": ""
+                },
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Mahua",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Subham",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lahiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "Carl",
+                    "middle": [],
+                    "last": "Durjoy &amp; Lavie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "14.779-788.10.1016/j.dsx.2020.05.035"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Psychological Stress and the Human Immune System: A MetaAnalytic Study of 30 Years of Inquiry",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Segerstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Psychological Bulletin",
+            "volume": "130",
+            "issn": "4",
+            "pages": "601--630",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/0033-2909.130.4.601"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Interpreting Diagnostic Tests for SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sethuraman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jeremiah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ryo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "22",
+            "pages": "2249--2251",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.8259"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Detection of IgM and IgG antibodies in patients with coronavirus disease 2019",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Transl Immunol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/cti2.1136"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seow",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Merrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Acors",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u2026",
+                    "middle": [],
+                    "last": "Doores",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.07.09.20148429"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Coronavirus Disease",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Under the COVID-19 Lockdown : Rapid Review About the Unique Case of North Cyprus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Volkan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Volkan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Psychological Trauma: Theory, Research, Practice, and Policy",
+            "volume": "12",
+            "issn": "5",
+            "pages": "539--541",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/tra0000809"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Undivided Trauma in a Divided Cyprus: Modified Emotional Stroop Study",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Volkan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hadjimarkou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Psychological Trauma: Theory, Research, Practice, and Policy",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Yurt Krizi: \u00d6\u011frenciler Peri\u015fan",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Yenid\u00fczen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "D\u0131\u015fland\u0131k, hain ilan edildik",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Demir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Posttraumatic stress symptoms and attitude toward crisis mental health services among clinically stable patients with COVID-19 in China",
+            "authors": [
+                {
+                    "first": "H-X",
+                    "middle": [],
+                    "last": "Bo",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-T",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Psychological Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0033291720000999"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "CoV-2 IgG Instructions for Use. H14806R01",
+            "authors": [
+                {
+                    "first": "Architect",
+                    "middle": [],
+                    "last": "Abbott",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sars",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Performance Characteristics of the Abbott Architect SARS-CoV-2 IgG Assay and Seroprevalence in",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pepper",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wener",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Microbiol",
+            "volume": "58",
+            "issn": "8",
+            "pages": "941--961",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00941-20"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Coping, rumination and posttraumatic growth in people affected by an earthquake",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Garc\u00eda",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cova",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rinc\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "V\u00e1zquez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "P\u00e1ez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Psicothema",
+            "volume": "28",
+            "issn": "1",
+            "pages": "59--65",
+            "other_ids": {
+                "DOI": [
+                    "10.7334/psicothema2015.100"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Perceiving pervasive discrimination among African Americans: Implications for group identification and well-being",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Branscombe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Schmitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Harvey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Journal of Personality and Social Psychology",
+            "volume": "77",
+            "issn": "",
+            "pages": "135--149",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/0022-3514.77.1.135"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Longitudinal Change of Severe Acute Respiratory Syndrome Coronavirus 2 Antibodies in Patients with Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "The Journal of Infectious Diseases",
+            "volume": "222",
+            "issn": "",
+            "pages": "183--188",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jiaa229"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Antibody responses to SARS-CoV-2 in patients with COVID-19",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "26",
+            "issn": "",
+            "pages": "845--848",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0897-1"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Patterns of IgG and IgM antibody response in COVID-19 patients. Emerging Microbes & Infections",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-H",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "1269--1274",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/22221751.2020.1773324"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Dysregulation of Immune Response in Patients With Coronavirus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clinical Infectious Diseases",
+            "volume": "71",
+            "issn": "",
+            "pages": "762--768",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa248"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Reduction and Functional Exhaustion of T Cells in Patients With Coronavirus Disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Diao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Frontiers in immunology",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2020.00827"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "The immediate psychological and occupational impact of the 2003 SARS outbreak in a teaching hospital",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maunder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vincent",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Peladeau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Leszcz",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mazzulli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Canadian Medical Association Journal",
+            "volume": "168",
+            "issn": "",
+            "pages": "1245--1251",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "The psychological impact of COVID-19 on the mental health in the general population",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Serafini",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Parmigiani",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Amerio",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aguglia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Amore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "QJM: An International Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "1--7",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/qjmed/hcaa201"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The psychological impact of the SARS epidemic on hospital employees in China: Exposure, risk perception, and altruistic acceptance of risk",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hoven",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Canadian Journal of Psychiatry",
+            "volume": "54",
+            "issn": "",
+            "pages": "302--311",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/070674370905400504"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Legend.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Criteria: Confirmed (i.e., with positive polymerase chain reaction test result) COVID-19 infection in Northern Cyprus between the dates of 10 March -17 April and residence in northern Cyprus. Exclusion Criteria for Antibody Development Analysis: Refusal to give informed consent, or contraindication to venipuncture. Exclusion Criteria for Psychological Survey: Refusal to give informed consent, inability to understand/speak Turkish or English fluently, or being under the age of 18.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "who experienced mild/moderate disease. Overall median [IQR] titer level was 4.38 [2.05-5.88]. Median [IQR] titer level among positives and negatives were 4.95 [3.79-6.09] and 0.61 [0.16-0.72], respectively. Figure 1 and Supplementary Table 2 display the distribution of IgG antibody titers by baseline characteristics and disease severity. The factor that had the most impact on IgG titer at a median follow-up of two months post-diagnosis was disease severity. Nine subjects who had severe/critical disease had median [IQR] IgG titer of 6.09 [5.88-6.24] versus 3.94 [1.70-5.52] reported for thirty-eight subjects with mild/moderate disease (Wilcoxon rank-sum test; p=0.001). Among the baseline factors, fever/history of fever reported at the time of diagnosis yielded median [IQR] IgG titer of 5.56 [4.11-6.20] versus 3.57 [1.47-5.13] reported for those without fever/history of fever (Wilcoxon ranksum test; p=0.01). Having a comorbidity also produced higher median [IQR] IgG titers of 5.52 [4.31-6.09] versus 3.87 [1.25-5.56] in those without a comorbidity (Wilcoxon rank-sum test; p=0.03). The distributions of IgG titers by cross-tabulation of baseline characteristics and disease severity are displayed in Supplementary Table 3. In the mild/moderate disease severity group, a significantly higher level of IgG titer was observed in individuals with comorbidities (median [IQR]: 5.02 [3.92-5.67]) compared to those without (median [IQR]: 3.43 [0.88-4.87]) (Wilcoxon rank-sum test; p=0.03).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Descriptive Statistics and Correlations Between the Measured Psychological",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "IgG Levels Overall, by Baseline Factors and Disease Severity. IgG levels were measured at a median [IQR] time of 66 [63.5-73] days from initial COVID-19 diagnosis. See Supplementary Table 2 for detailed summary statistics. Mod=Moderate, Sev=Severe.Figure 2 Legend. COVID-19 as Life-changing Trauma (CALCT) Scores Overall, by Baseline Factors and Disease Severity. Psychological measures were assessed around 2 months from initial COVID-19 diagnosis. See SupplementaryTable 4for distribution of responses to the three CALCT survey items. Mod=Moderate, Sev=Severe.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank study participants as well as Savas Erdogan, Dr. Sebnem Benar, Safiye Ilgilier, Zeynep Unalan, Cigdem Adatas Sesen, Sumru Ozkan Ezer, Ayse Dogan for helping with the conduct of fieldwork and compilation of study data from psychological surveys, Sedef Kutlu and Serife Can from the microbiology laboratory",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": " 1 Of the 47 individuals who provided blood samples for serology testing, four cases were not invited to respond to the survey (one <18 years old, and three not fluent in local language) and two declined to participate in the survey. 2 Most frequently reported chronic diseases were hypertension (N=9) and diabetes (N=5, two with concurrent hypertension). 3 Disease severity was defined as critical (requiring intensive care), severe (requiring oxygen therapy, but otherwise stable) and mild/moderate (all other cases including asymptomatic cases).",
+            "cite_spans": [
+                {
+                    "start": 1,
+                    "end": 2,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 234,
+                    "end": 235,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 356,
+                    "end": 357,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Tables"
+        }
+    ]
+}

@@ -1,0 +1,2383 @@
+{
+    "paper_id": "1b256a57d3d9720949e9a88532bd436015419c31",
+    "metadata": {
+        "title": "Social predictors of food insecurity during the stay-at-home order due to the COVID-19 pandemic in Peru. Results from a cross-sectional web-based survey SUMMARY Background",
+        "authors": [
+            {
+                "first": "Jorge",
+                "middle": [
+                    "L"
+                ],
+                "last": "Ca\u00f1ari-Casa\u00f1o",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Emerge, Emerging Diseases and Climate Change Research Unit, School of Public Health and Administration, Universidad Peruana Cayetano Heredia. 3. GMINIS Research Group, Pontificia Universidad Cat\u00f3lica del Per\u00fa 4. Grupo de Investigaci\u00f3n Nutobes",
+                    "institution": "Universidad Nacional Mayor de San Marcos",
+                    "location": {
+                        "addrLine": "Per\u00fa 5. Sociedad Cient\u00edfica de Estudiantes de Nutrici\u00f3n",
+                        "settlement": "Lima"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Oliver",
+                "middle": [
+                    "A"
+                ],
+                "last": "Elorreaga",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Emerge, Emerging Diseases and Climate Change Research Unit, School of Public Health and Administration, Universidad Peruana Cayetano Heredia. 3. GMINIS Research Group, Pontificia Universidad Cat\u00f3lica del Per\u00fa 4. Grupo de Investigaci\u00f3n Nutobes",
+                    "institution": "Universidad Nacional Mayor de San Marcos",
+                    "location": {
+                        "addrLine": "Per\u00fa 5. Sociedad Cient\u00edfica de Estudiantes de Nutrici\u00f3n",
+                        "settlement": "Lima"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Omaira",
+                "middle": [],
+                "last": "Cochachin-Henostroza",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sindy",
+                "middle": [],
+                "last": "Huaman-Gil",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gandy",
+                "middle": [],
+                "last": "Dolores-Maldonado",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anthony",
+                "middle": [],
+                "last": "Aquino-Ram\u00edrez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Juan",
+                "middle": [
+                    "P"
+                ],
+                "last": "Giribaldi-Sierralta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Juan",
+                "middle": [
+                    "Pablo"
+                ],
+                "last": "Aparco",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Daniel",
+                "middle": [
+                    "A"
+                ],
+                "last": "Antiporta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mary",
+                "middle": [
+                    "E"
+                ],
+                "last": "Penny",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Cayetano",
+                "middle": [],
+                "last": "Heredia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Stay-at-home orders and social distancing have been implemented as the primary tool to reduce the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, this approach has indirectly caused, only in Lima-Peru, more than 2\u00b73 million Peruvians to lose their jobs. As a result, the risk of food insecurity may have increased in affected low-income families, especially those that depend on daily income. This study estimates the prevalence of moderate or severe food insecurity (MSFI) and identifies the associated factors that explain this outcome during the stay-at-home order.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "A cross-sectional web-based survey, with the non-probability sample, was conducted between May 18 and June 30, 2020, during the stay-at-home order in Peru. We used social media advertisements on Facebook to reach 18-59 year-olds living in Peru. MSFI was assessed using the Food Insecurity Experience Scale (FIES). Rasch model methodology requirements were considered, and factors associated with MSFI were selected using a stepwise forward selection. A Poisson generalized linear model (Poisson GLMs), with log link function, was employed to estimate adjusted prevalence ratios (aPR).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "This analysis is based on 1846 replies. The prevalence of MSFI was 23\u00b72%, and FIES proved to be an acceptable instrument with reliability 0\u00b772 and infit 0\u00b78-1\u00b73. People more likely to experience MSFI were those with low income (less than 255 US$/month) in the pre-pandemic period (aPR 3\u00b777; 95%CI, 1\u00b798-7\u00b716), those whose income was significantly reduced during the pandemic period (aPR 2\u00b727; 95%CI, 1\u00b755-3\u00b731), and those whose savings ran out in less than 21 days (aPR 1\u00b786; 95%CI, 1\u00b743-2\u00b742). Likewise, heads of households (aPR 1\u00b720; 95%CI, 1\u00b700-1\u00b744) and those with relatives with probable SARS-CoV2 cases (aPR 1\u00b729; 95%CI, 1\u00b705-1\u00b758) were at an increased risk of MSFI. Additionally, those who perceived losing weight during the pandemic (aPR 1\u00b721; 95%CI, 1\u00b701-1\u00b745), and reported increases in processed foods prices (aPR 1\u00b731; 95%CI, 1\u00b708-1\u00b759), and eating less minimally processed food (aPR 1\u00b782; 95%CI, 1\u00b748-2\u00b724) were also more likely to experience MSFI.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "People most at risk of MSFI were those in a critical economic situation before and during the pandemic period. It is necessary to reinforce social protection policies to prevent or mitigate these adverse effects.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "By the end of January 2020, the COVID-19 pandemic had caused more than 100 million positive cases of SARS-CoV2 in the world, of whom approximately 2\u00b73 million have died. (1) In Peru, around 1 million people have tested positive, and more than 41 thousand have died from SARS-CoV2, (2) moreover, Peru is one of the countries with the highest SARS-CoV2 mortality rate in the world. (3) After declaring a global health emergency, (4) the World Health Organization (WHO) recommended social distancing and closing public and private services, among other measures to contain the spread of SARS-CoV2.",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 173,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 380,
+                    "end": 383,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 427,
+                    "end": 430,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "One of the principal measures adopted by many countries was a stay-at-home order, and the closed border (national lockdowns). In Peru, these were implemented from March 16 to June 30, 2020. People were only allowed to go out for essential activities, for instance, to buy food and medicine. However, due to the precarious labour market in Peru, where informal labour constitutes 50% of all labour (5) , and the existing pre-pandemic poverty, the purchasing power of Peruvian families was severely affected. The Peruvian government tried to help this vulnerable population by giving social aid (granting of money, early withdrawal from the private retirement pension and food donations) to face the stay-at-home orders' side effects. It has been suggested that this was not enough due to inefficient distribution and the critical situation exacerbated by COVID-19 pandemic. (6) It has been argued that stay-at-home orders could affect food insecurity due to the resulting economic crisis, massive loss of jobs, high food prices, and growing demand for medical care. (7) These results may generate adverse health effects in the short and medium term (7) . Recent research on the short-term impacts of stay-at-home orders supports this idea. One of the first studies in Peru reported a considerable income reduction after stay-at-home orders in 37% of the participants (8) and only in Lima-Peru, more than 2\u00b73 million Peruvians to lose their jobs (9) . Similar cases were reported in the US (10) and Bangladesh (11) . Higher food prices have been reported (12) as well as increased depression, anxiety and physical violence against women. (11) . Also, there have been reported changes in food choices and diets (13) .",
+            "cite_spans": [
+                {
+                    "start": 397,
+                    "end": 400,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 873,
+                    "end": 876,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1065,
+                    "end": 1068,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1148,
+                    "end": 1151,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1366,
+                    "end": 1369,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1444,
+                    "end": 1447,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1488,
+                    "end": 1492,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1508,
+                    "end": 1512,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1553,
+                    "end": 1557,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1636,
+                    "end": 1640,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1708,
+                    "end": 1712,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Recent studies have reported an increase in the prevalence of food insecurity after implementation of stay-at-home orders (14) (15) (16) and that households tend to experience greater food insecurity as the crisis intensifies (11) . These results are alarming, especially considering that the World Food Program anticipates that by the end of 2020, the number of people experiencing food insecurity will increase to 265 million (17) with the risk of a negative impact in health outcomes due to indirect effects such as household stress, risk behaviour. (7) In Peru, between 2014-2016, the prevalence of MSFI was 29\u00b79% (18) ; however, there is little data on how stay-at-orders have affected the MSFI. The present study aimed to estimate the prevalence of MSFI and determine the factors associated with MSFI in our study population.",
+            "cite_spans": [
+                {
+                    "start": 122,
+                    "end": 126,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 127,
+                    "end": 131,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 132,
+                    "end": 136,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 226,
+                    "end": 230,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 428,
+                    "end": 432,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 553,
+                    "end": 556,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 618,
+                    "end": 622,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The stay-at-home order established in the world to stop the spread of the COVID-19 pandemic has caused profound adverse effects in low-and middle-income countries such as Peru, specifically in the economically vulnerable population, who are in most at risk of suffering greater food insecurity. We searched PubMed servers up to Jan 20, 2020, for peer-reviewed articles published using the terms \"(food insecurity OR food security) AND (COVID-19 OR SARS-CoV2) OR (stay-at-home order OR Quarantine OR lockdown)\", without data or language restrictions. Our search found few studies that have examined the direct or indirect impact of the stay-at-home order in the moderatesevere food insecurity (MSF). However, the available evidence is scarce in low-and middle-income and Latin American countries such as Peru.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Research in context Evidence before this study"
+        },
+        {
+            "text": "To our knowledge, this study provides one of the first pieces of evidence in Peru about the prevalence of MSFI and its associated factors using the Food Insecurity Experience Scale (FIES) within the stay-at-home order context due to the COVID-19 pandemic. Our findings are in accordance with the still growing scientific literature that has reported that the people most at risk of suffering from MSFI are the people whit critical economic situations before and during the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Added value of this study"
+        },
+        {
+            "text": "Our findings are in relation to the recent scientific evidence that has reported a higher risk of suffering MSFI in low-income family's whit critical economic situation before and during the pandemic. It is urgent to implement social protection policies that aim to strengthen real-time identification systems that focus on social assistance to the vulnerable population in the context of stay-at-home order (in which non-poor households can become a condition of poverty quickly). It is also essential to take advantage of these adverse scenarios to identify appropriate social aid strategies (money transfers, food donations, communal pots of food, etc.) according to the vulnerable population's characteristics and the pandemic state. These recommendations can help mitigate the adverse effects of stay-at-home order on food insecurity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Implications of all the available evidence"
+        },
+        {
+            "text": "A cross-sectional study, a self-administered online survey in Qualtrics platform was used to estimate the prevalence of MSFI and determinate the associated factors. The survey was administered to Peruvian adults, between 18 and 59 years who had internet and social media (Facebook) access by mobile devices or computers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study design and participants"
+        },
+        {
+            "text": "Participants who clicked on the link were redirected to a Qualtrics survey platform to read more about the study and give informed consent before starting the survey. The survey could be answered more than once, and if this happened, participants had to mention why they were re-. CC-BY-NC-ND 4.0 International license It is made available under a perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ;  entering the survey. Participants who completed the study were invited to download educational material on \"Healthy Eating\" and asked to share the survey link through their social media and WhatsApp contacts and groups.",
+            "cite_spans": [
+                {
+                    "start": 50,
+                    "end": 69,
+                    "text": "February 8, 2021. ;",
+                    "ref_id": null
+                },
+                {
+                    "start": 70,
+                    "end": 70,
+                    "text": "",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "The survey was accessible between May 18 and June 30 during the stay-at-home order. The dissemination of this study was done by: (1) paid advertisements from the \"Colegio de Nutricionistas del Per\u00fa\" official social media site; (2) social media posts by public and private universities and Peruvian research centres, and (3) by dissemination of the online survey link by participants who previously completed the survey through their personal social media profile or through their WhatsApp groups and contacts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "The online survey collected sociodemographic information (place of residence, sex, age, marital status, nationality, educational level, employment status, whether they suffered from a chronic disease or any disability, symptoms or any relative that tested positive for SARS-CoV2 in participant environment); FIES; household information (number of household members, average monthly income, economic condition during stay-at-home order, savings capacity to face emergency situation, receive financial support by the government, water connection and drainage); perception about food prices (Food groups were formed according to these levels: \"lower price\", \"same price\", \"higher price\", \"do not know/prefer not to answer\"); perception about food consumption (Food groups were formed according to these possibilities: \"eat less\", \"eat the same\", \"eat more\", \"do not eat/prefer not to answer\"); perception about places to buy and waiting time (market access, available food, waiting time to buy, change of market) and perception about body weight status (\"What is your body weight status?\" before and during the pandemic using body shape images) were included in the questionnaire. To validate the survey questionnaire, a pilot study was conducted by phone call to 23 people of different age groups.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "We used the Food Insecurity Experience Scale (FIES) at the individual level to determine the prevalence of MSFI. The FIES is an eight-item questionnaire with dichotomous responses (Yes or No) about experiences with food insecurity of the household or individual level.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Food Insecurity Measurement"
+        },
+        {
+            "text": "The FIES was developed by Food and Agriculture Organization's (FAO) Voices of the Hungry (VoH) project (19) (20, 21) and was validated in 151 countries with Gallup World Poll (GWP) data in 2014 (19) (20) (21) . Several studies have used FIES to determine food insecurity in different fields and context. (22) (23) (24) (25) (26) (27) (28) We adapted the FIES questionnaire to the Peruvian context taking into consideration a study by Vargas and Penny, (29) and a pilot study (n=23) where content and understanding were evaluated. Minor modifications were done to the formulation of the questions, and the whole questionnaire was translated into Spanish (Table 1) .",
+            "cite_spans": [
+                {
+                    "start": 103,
+                    "end": 107,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 108,
+                    "end": 112,
+                    "text": "(20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 113,
+                    "end": 116,
+                    "text": "21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 194,
+                    "end": 198,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 199,
+                    "end": 203,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 204,
+                    "end": 208,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 304,
+                    "end": 308,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 309,
+                    "end": 313,
+                    "text": "(23)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 314,
+                    "end": 318,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 319,
+                    "end": 323,
+                    "text": "(25)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 324,
+                    "end": 328,
+                    "text": "(26)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 329,
+                    "end": 333,
+                    "text": "(27)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 334,
+                    "end": 338,
+                    "text": "(28)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 452,
+                    "end": 456,
+                    "text": "(29)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 653,
+                    "end": 662,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Food Insecurity Measurement"
+        },
+        {
+            "text": "To analyze and determinate MSFI, we only considered people who responded positively (value: 1) or negatively (value: 0) to all questions on the FIES. Since the FIES scale fulfilled all Rasch model assumptions (reliability and infit), a raw score was obtained (sum of affirmative responses). People were classified depending on their food insecurity categories. It was classified as MSFI if the raw score was between 4-8, and not MSFI if the raw score was between 0-3. (30) Similar cut off points were used to determine MSFI in other studies. (22, 26, 31, 32) . CC-BY-NC-ND 4.0 International license It is made available under a perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 468,
+                    "end": 472,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 542,
+                    "end": 546,
+                    "text": "(22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 547,
+                    "end": 550,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 551,
+                    "end": 554,
+                    "text": "31,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 555,
+                    "end": 558,
+                    "text": "32)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Food Insecurity Measurement"
+        },
+        {
+            "text": "is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Food Insecurity Measurement"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ; ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Food Insecurity Measurement"
+        },
+        {
+            "text": "Sociodemographic variables including age, sex, place of residence, educational level, head of household, and number of household members were considered. Variables included household income level before and during the pandemic, were related to an individual's financial status and use and duration of savings during the stay-at-home order. Variables related to social assistance included support given by the government or any institution. Variables used to understand changes that have happened since the emergency, included changes in where food was bought and principal food groups consumed (health or minimally processed food, culinary ingredients, processed food, and ultra-processed foods). Body weight perceptions were evaluated using the Stunkard scale (33) , before and during the pandemic to determine if weight loss is related to MSFI. Finally, variables related to COVID-19 pandemic were also considered; specifically, participants reporting a SARS-CoV2 diagnosis, loss of smell/taste, or if the stated their house members had or had had SARS-CoV2.",
+            "cite_spans": [
+                {
+                    "start": 761,
+                    "end": 765,
+                    "text": "(33)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Covariates"
+        },
+        {
+            "text": "Rash model (21) assumptions in the FIES scale were evaluated using the RM. weight package in R software (34) where performance of an eight-item questionnaire was assessed utilizing infit statistic and the ability to distinguish different levels of food insecurity in participants was evaluated with the reliability of FIES scale. After verifying the fulfilment of the FIES scale's assumptions, the food insecurity was determined using the raw score (the sum of affirmative responses). Descriptive analysis in categorical variables and bivariate analysis between MSFI (Yes/No) and other predictor variables were performed by proportions and chi-square test, respectively. Determination of associated factors between the predicted variables and MSFI was done using . CC-BY-NC-ND 4.0 International license It is made available under a perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 11,
+                    "end": 15,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 104,
+                    "end": 108,
+                    "text": "(34)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ;  forward stepwise selection. The initial model started with the most significant predictor variable, and then the other significant predictors were added one by one. We used Poisson generalized linear models (Poisson GLMs) with log link function, to estimate adjusted prevalence ratios (aPR) considering a fitting at the departmental level. Data analysis was performed using Stata 15\u00b70 (Stata Corp., College Station, Texas -United States) and R studio.",
+            "cite_spans": [
+                {
+                    "start": 50,
+                    "end": 69,
+                    "text": "February 8, 2021. ;",
+                    "ref_id": null
+                },
+                {
+                    "start": 70,
+                    "end": 70,
+                    "text": "",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Analysis"
+        },
+        {
+            "text": "The study was approved by the human ethics committee of \"Instituto de Investigaci\u00f3n Nutricional\" (CIEI-IIN), Lima -Peru, N\u00b0 394-2020/CIEI-IIN.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical Issues"
+        },
+        {
+            "text": "A total of 2643 people answered the study's informed consent, and 116 declined to participate in the study. Fifty-two participants were excluded because they did not answer whether they were taking the survey for the first time or were accessing the survey for another time ( Figure 1 ). Finally, we excluded participants who did not answer all questions on the FIES scale questionnaire (n=629). The final sample considered for the analysis was 1846 participants (Figure 1 ). is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 276,
+                    "end": 284,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 463,
+                    "end": 472,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ; Table 2 shows the infit statistic and the Rasch model parameters. Infit values was acceptable, and Rasch model reliability in the FIES scale was 0\u00b772 (data do not show in the table) that is also acceptable (greater than 0\u00b77). Most of the participants were women (74\u00b79%). They had a technical or university education (85\u00b73%) while around one-third of them were heads of household (34\u00b72%) and lived-in provinces other than Metropolitan Lima (32\u00b72%). Concerning economic factors, a low proportion of people (12\u00b74%) receive less than the minimum living wage in Peru (less than 255 US$/month) prepandemic and only 23\u00b74% continued to earn less than minimum wage during the stay-at-home orders. On the other hand, the half of the participants (56\u00b77%) had savings left to address the emergency of COVID-19 pandemic, while 16% and 9\u00b75% of people ran out savings between 22-35 days and in less than 21 days since the start of the stay-at-home order, respectively.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 70,
+                    "end": 77,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "As for factors related explicitly to the stay-at-home order, we found 17% of people with relatives with probable cases of SARS-CoV2, 30% stayed at home without working (usually have been working in the pre-pandemic period), 38\u00b71% were working, and 26\u00b78% were at home usually not working. Also, 71\u00b76% reported that the process to buy food took more time than before, and only 23\u00b74% mentioned that received some support (include the government and private support) during the COVID-19 pandemic (Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 492,
+                    "end": 501,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "To understand the participant\u00b4s perception of their body weight status before and during the pandemic, the Stunkard scale was used. 24\u00b79% people perceived they lost weight, 32\u00b71% maintained their weight and 30\u00b77% gained weight (data do not show in the table). Regarding the perception about natural or minimally processed food consumption, 30% of participants mentioned that they ate less of this food group, and 39% ate more. It was also found that 23\u00b73% of participants experienced MSFI (Table 3) . is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 489,
+                    "end": 498,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ; is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ; Table 4 shows the bivariate analysis between MSFI and principal predictor variables. Most were found to be significant, except for participant sex and age. We found that heads of households were significantly more likely to have MSFI than non-heads of households, 21\u00b77% and 26\u00b76%, respectively. Furthermore, people perceived that have lost weight (19\u00b78% versus 30\u00b77%), that have eaten less natural or minimally processed food (13\u00b73% versus 41\u00b76%), and who had relatives with probable cases of SARS-CoV2 (19\u00b78% versus 30\u00b77%) were more likely to report MSFI. is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint The associated factors with MSFI are shown in Table 5 . Among sociodemographic factors, it was found that participants who were heads of households had a prevalence of MSFI up to 1\u00b72 times higher, compared to those participants that were not (aPR 1\u00b720, CI95%: 1\u00b700-1\u00b744). In relation to economic factors, people whose households had an average monthly income of less than 255 US$/month and between 256 to 766 US$/month in the pre-pandemic period had a prevalence of MSFI up to 3\u00b78 (aPR 3\u00b777 CI95%: 1\u00b798-7\u00b716) and 2\u00b78 (aPR 2\u00b780 CI95%: 1\u00b750-5\u00b723) times higher, respectively compared to participants whose households had an average monthly income of more than 1788 US$/month. The people whose savings to address the emergency ran out between 22 to 35 days and in less than 21 days since the start of the stay-at-home order, had a prevalence of MSFI up to 1\u00b784 (aPR 1\u00b784, CI95%: 1\u00b746-2\u00b731) and 1\u00b786 (aPR 1\u00b786, CI95%: 1\u00b743-2\u00b742) times higher, respectively, compared to people who still had savings to address the emergency.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 70,
+                    "end": 77,
+                    "text": "Table 4",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 806,
+                    "end": 813,
+                    "text": "Table 5",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "On the other hand, participants with relatives with probable cases of SARS-CoV2 had a prevalence of MSFI up to 1\u00b729 (aPR 1\u00b729, CI95%: 1\u00b705-1\u00b758) times higher compared with those who did not. Concerning the perception of body weight status, it was evident that those participants who reported a loss of weight during the pandemic period had a prevalence of MSFI up to 1\u00b721 (aPR 1\u00b721, CI95%: 1\u00b701-1\u00b745) higher than those who mentioned that they maintained or gained weight. Lastly, participants who reported consuming less natural or minimally processed food had a prevalence of MSFI up to 1,82 (aPR 1\u00b782, CI95%: 1\u00b748-2\u00b724) times higher than those who mentioned that they ate the same or more of that group of foods. And participants who reported increases in processed foods prices had a prevalence of MSFI up to 1,31 (aPR 1\u00b731; 95%CI, 1\u00b708-1\u00b759) times higher than those who reported that prices were maintained or decreased.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ; It ran out in less than 21 days 1\u00b786 (1\u00b743 -2\u00b742) < 0\u00b7001",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "People with relatives with probable cases of SARS-CoV2",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Factors related to the COVID-19 pandemic"
+        },
+        {
+            "text": "Without probable cases of SARS-CoV2 Ref.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Factors related to the COVID-19 pandemic"
+        },
+        {
+            "text": "With probable cases of SARS-CoV2 1\u00b729 (1\u00b705 -1\u00b758) 0\u00b7015",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Factors related to the COVID-19 pandemic"
+        },
+        {
+            "text": "Perception of food price of processed foods during COVID-19 pandemic Lowered or maintained Ref.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Factors related to the COVID-19 pandemic"
+        },
+        {
+            "text": "Price increased 1\u00b731 (1\u00b708 -1\u00b759) 0\u00b7007",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Factors related to the COVID-19 pandemic"
+        },
+        {
+            "text": "Perception of weight loss during the COVID-19 pandemic Maintained or gained weight Ref.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Perception of body condition"
+        },
+        {
+            "text": "Lost weight 1\u00b721 (1\u00b701 -1\u00b745) 0\u00b7034",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Perception of body condition"
+        },
+        {
+            "text": "Perception of consumption of minimally processed foods during the COVID-19 pandemic Ate the same or more Ref.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Food patterns and food insecurity"
+        },
+        {
+            "text": "Ate less 1\u00b782 (1\u00b748 -2\u00b724) < 0\u00b7001",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Food patterns and food insecurity"
+        },
+        {
+            "text": "aPR: Prevalence ratios adjusted. Multivariate regression analysis fitting by department level considering the constitutional province of Callao as a department. is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Food patterns and food insecurity"
+        },
+        {
+            "text": "The present study found that the prevalence of MSFI was 23\u00b72% and factors associated with it were having an income below the minimum living wage in the pre-pandemic period, having experienced a substantial reduction in income during the pandemic, ran out of savings in the first 21 days of pandemic period, being head of household, having relatives with probable cases of SARS-CoV2, having a perception of losing weight during pandemic period, reporting that they ate less natural or minimally processed food, and having a perception increases in processed foods prices.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In Peru, 2014, the reported prevalence of MSFI was 29\u00b79% (35) ; however, our study found a prevalence of MSFI of 23\u00b72% in the first 30-45 days of stay-at-home order. Although these results are not comparable with MSFI initial values, the prevalence of MSFI found in this study may likely be underestimated because of some particular characteristics of the population under analysis (for instance, 73\u00b73% have a university education and only 12\u00b74% reported having monthly income less than 255 US$/month before the pandemic). Additionally, participants needed internet access and a social network account to access the survey, attributes that lowincome people generally do not have and that they are precisely the population most at risk of suffering food insecurity. (22, 26) Other studies that have evaluated Food Insecurity in the context of a COVID-19 pandemic using FIES have reported higher MSFI prevalence. For example, in Jordan, it was reported that the prevalence of MSFI was 59\u00b72% (36) , in Kenya and Uganda the MSFI increased from 50% to 88% and from 43% to 87%, respectively (15) . Our study measures individual MSFI. However, there is already evidence of the effect stay-at-home order on household MSFI. In Mexico, it was reported that the MSFI of the household increased from 24\u00b72% (2018) to 30\u00b72% (June 2020). (31) In Vermont-US also reported is an increase (from 18\u00b73% prepandemic to 24\u00b74%) of MSFI (14) and in rural Bangladesh in household whit women and their families the household MSFI increase from 8\u00b73% pre-pandemic to 51\u00b78% (May -June 2020). (11) Our study is one of the first investigations into MSFI executed within the stay-at-home order due to COVID-19 pandemic in Peru from March 16 to June 30, 2020. It was found that up to 40\u00b75% of participants experienced a considerable reduction in their income, the same result, were reported by the Young Lives study in Peru (June -July 2020) (37% of households were affected by a salary cut or suspension without payment). (8) These high percentages of income losses could be related to the fact that in Peru, 50% of income came from informal employment in the prepandemic period. (5) This could explain our results, i.e., those who had both reduced income (compared to high-income people) before the pandemic, and then less capacity to save money to face emergency situations and substantial income reduction during the pandemic, are shown to be more likely to have MSFI. These findings are consistent with other studies, for example, in Jordan (36) it was reported that people who had a monthly income per capita below the poverty line were more likely to have moderate food insecurity (OR: 5\u00b733; 95% CI: 4\u00b744-6\u00b740) and severe food insecurity (OR: 6\u00b787; 95% CI: 5\u00b7542-8\u00b7512). In the same way, other studies that explored the determinants of food insecurity in the pandemic contexts reported a higher risk to have MSFI in low-income people (37) , people who lost their job (14, 38) or people substantially lost their income (39) .",
+            "cite_spans": [
+                {
+                    "start": 57,
+                    "end": 61,
+                    "text": "(35)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 765,
+                    "end": 769,
+                    "text": "(22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 770,
+                    "end": 773,
+                    "text": "26)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 989,
+                    "end": 993,
+                    "text": "(36)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1085,
+                    "end": 1089,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1323,
+                    "end": 1327,
+                    "text": "(31)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1413,
+                    "end": 1417,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1563,
+                    "end": 1567,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1990,
+                    "end": 1993,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 2148,
+                    "end": 2151,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2513,
+                    "end": 2517,
+                    "text": "(36)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 2908,
+                    "end": 2912,
+                    "text": "(37)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 2941,
+                    "end": 2945,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2946,
+                    "end": 2949,
+                    "text": "38)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 2992,
+                    "end": 2996,
+                    "text": "(39)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The Peruvian government implemented social aid programs aimed at the poor population to face the stay-at-home order; this aid consisted mainly of the granting of 760 Peruvian soles (208\u00b75 US$), early withdrawal from the private retirement pension and food donations. In our study, we found that most respondents reported not having been part of this beneficiary population. For example, only 15\u00b77% received some type of support from the government to face the stay-athome order, and of the total of these only 25\u00b76% was allocated to people with pre-pandemic monthly income below the minimum living wage (less than 255 US$) and 55\u00b76% for people with monthly income from 256 to766 US$ (data not shown in tables). We do not have information on the percentage of the vulnerable population that did not receive government aid to face the stayat-home order in Peru. However, has been reported that the data source for targeting of vulnerable households living in poverty was designed for regular contexts and not allow the identification of families that abruptly entered poverty due to the measures of the mandatory stay-at-home order (5) , additionally, also was reported that there were problems in receiving money from social assistance, because nearly 14 million adult Peruvians (59\u00b78% of the total adult population) did not have an account in the financial system of banks. (40) For this reason, our results invite further analysis and discussion on the targeting and delivery of government social aid addressed the vulnerable population in a pandemic context.",
+            "cite_spans": [
+                {
+                    "start": 1130,
+                    "end": 1133,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1374,
+                    "end": 1378,
+                    "text": "(40)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "On the other hand, the high food price perception during pandemic (55\u00b76% participants reported an increase in the price of processed food in our study) may have limited the capacity to buy or access food during the pandemic. Loss of jobs, (11, 41) increase in food prices (12) are some of the side effects reported by different studies during stay-at-home order.",
+            "cite_spans": [
+                {
+                    "start": 239,
+                    "end": 243,
+                    "text": "(11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 244,
+                    "end": 247,
+                    "text": "41)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 272,
+                    "end": 276,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In this study we found that people who had a perception of lower minimally processed food consumption were more likely to experience MSFI, this may be due to reduced access to food in terms of quantity and quality whether lack of food, increased food price or for having some fear about the contagion of SARS-CoV2 in markets because products are not packaged, and there is more risk of transmission, as reported by Federico Scarmozzino et al. (42) in Italy.",
+            "cite_spans": [
+                {
+                    "start": 443,
+                    "end": 447,
+                    "text": "(42)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "It is possible that one of the reasons heads of households were more likely to suffer from MSFI could be stress and anxiety (7) related to getting food and having to prioritize feeding their family over themselves. This result could be related to the perception of losing weight that in our study was associated with MSFI. However, in the latter case, we believe that it may be mainly due to the experience of hunger or the reduction of food in quantity and quality that people with severe food insecurity may be experiencing.",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 127,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our findings also show a greater chance of experiencing MSFI in participants with relatives with probable cases of SARS-CoV2. Even though there is no evidence about a direct relation between MSFI and SARS-CoV2, we suggest that there could be an indirect relation, due to the household economic resources could be addressing primarily to the treatment or care of the disease of the household member instead of prioritising food at home.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The study has some limitations because it is a cross-sectional study; it cannot establish causal relationships. There might be bias due to the lack of randomization in selecting participants, which might mean that the results shown are only generalizable to our study population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "It is important to discuss how the sample was obtained. This study is a web-based survey study where participants were not randomly selected. Ideally, we expected to have a sample with similar sociodemographic characteristics to the Peruvian national population (21\u00b72% and 20\u00b78% whit poorest quintile and poor quintile, respectively; with 28\u00b78% of the Peruvian population residing in the province of Metropolitan Lima and 71\u00b72% residing in other provinces or departments of Peru; with 60% of women between 15-49 years old having at least secondary level education and around 40% having higher education) (43, 44) . However, our sample was constituted mainly by women (74\u00b79%) and people who residing in the province of Lima Metropolitana (67\u00b77%); with only 12\u00b79% of those women have at least secondary level education, 87\u00b71% have higher education (data do not show in the table) and with 12\u00b74% of people with households with an average monthly income of less than 255 US$/month in pre-pandemic period (similar to the group of the poorest quintile). Considering these characteristics of the general Peruvian population and our study sample, we can mention that this study's sample has a similar distribution to Peruvian population that live in Lima Metropolitana, with high-medium sociodemographic level and it is not generalizable to the whole Peru. However, we showed significant evidence on MSFI in the context of the stay-at-home order due to the COVID-19 pandemic in Peru. is the author/funder, who has granted medRxiv a license to display the preprint in (which was not certified by peer review) preprint",
+            "cite_spans": [
+                {
+                    "start": 604,
+                    "end": 608,
+                    "text": "(43,",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 609,
+                    "end": 612,
+                    "text": "44)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The copyright holder for this this version posted February 8, 2021. ;  In conclusion, people who went through MSFI were those economically vulnerable both before and during stay-at-home order due to COVID-19 pandemic in Peru. Our findings also show some direct association of the experience of having MSFI, in particular that the greatest affect is on the household head, the general report of less consuming of minimally processed food and perception of losing weight. It is necessary to implement effective social assistance policies to prevent or mitigate these adverse effects.",
+            "cite_spans": [
+                {
+                    "start": 50,
+                    "end": 69,
+                    "text": "February 8, 2021. ;",
+                    "ref_id": null
+                },
+                {
+                    "start": 70,
+                    "end": 70,
+                    "text": "",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "An interactive web-based dashboard to track COVID-19 in real time",
+            "authors": [
+                {
+                    "first": "Ensheng",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lauren",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "20",
+            "issn": "",
+            "pages": "533--537",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Sala situacional COVID-19 Per\u00fa: Ministerio de Salud",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "COVID-19 Coronavirus Pandemic. Reported Cases and Deaths by Country, Territory, or Conveyance",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Worldometer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19)",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sohrabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Az",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Neill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Surg",
+            "volume": "2020",
+            "issn": "76",
+            "pages": "71--77",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "COVID-19 y shock externo Impactos econ\u00f3micos y opciones de pol\u00edtica en el Per\u00fa. Serie de documentos de pol\u00edtica p\u00fablica PNUD Am\u00e9rica Latina y el Caribe",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jaramillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "\u00d1h",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "GRADE. The COVID-19 Pandemic and Food Insecurity in Peru",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A conceptual model for understanding the rapid COVID-19-related increase in food insecurity and its impact on health and healthcare",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Anna",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sw",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kartika",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hilary",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Am J Clin Nutr",
+            "volume": "00",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Listening to Young Lives at Work in Peru: First Call",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lives",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "GRADE, IIN; 2020",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Empleo en Lima Metropolitana disminuy\u00f3 en 2 millones 318 mil 300 personas durante el trimestre marzo-abril-mayo del presente a\u00f1o 2020",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Inei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Inei",
+                    "middle": [],
+                    "last": "Nota De Prensa",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "About Half of Lower-Income Americans Report Household Job or Wage Loss Due to COVID-19 2020",
+            "authors": [
+                {
+                    "first": "Parker",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anna",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Immediate impact of stay-at-home orders to control COVID-19 transmission on socioeconomic conditions, food insecurity, mental health, and intimate partner violence in Bangladeshi women and their families: an interrupted time series",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hamadani",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baldi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Glob Health",
+            "volume": "",
+            "issn": "",
+            "pages": "30366--30367",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The impact of COVID-19 related 'stay-at-home' restrictions on food prices in Europe: findings from a preliminary analysis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akter",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Food Secur",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--7",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Changes in food choice following restrictive measures due to Covid-19",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bracale",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Vc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nutr Metab Cardiovasc Dis",
+            "volume": "30",
+            "issn": "9",
+            "pages": "1423--1429",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The Early Food Insecurity Impacts of COVID-19",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Niles",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bertmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Belarmino",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wentworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Biehl",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Neff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nutrients",
+            "volume": "12",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19 implications on household income and food security in Kenya and Uganda: Findings from a rapid assessment",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kansiime",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tambo",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mugambi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bundi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kara",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Owuor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "World development",
+            "volume": "137",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Parents' Perception of Food Insecurity and of Its Effects on Their Children in Italy Six Months after the COVID-19 Pandemic Outbreak",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dondi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Candela",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Morigi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lenzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pierantoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lanari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Nutrients",
+            "volume": "13",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Joint analysis for better decisions 2020",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ifpri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "The State of Food Security and Nutrition in the World 2020. Transforming food systems for affordable healthy diets Rome2020",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Fao I",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wfp",
+                    "middle": [],
+                    "last": "Unicef",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Who",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4060/ca9692en"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Methods for estimating comparable prevalence rates of food insecurity experienced by adults throughout the world Rome: FAO",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Fao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Better measurement of food insecurity in the context of enhancing nutrition",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ballard",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ka",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cafiero",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schmidhuber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Ernahrungs Umschau",
+            "volume": "61",
+            "issn": "2",
+            "pages": "38--41",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Food security measurement in a global context: The food insecurity experience",
+            "authors": [
+                {
+                    "first": "Carlo",
+                    "middle": [],
+                    "last": "Cafiero",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mark",
+                    "middle": [],
+                    "last": "Nord",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "116",
+            "issn": "",
+            "pages": "146--52",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Who are the World's Food Insecure? New Evidence from the Food and Agriculture Organization's Food Insecurity Experience Scale",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Rabbitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Coleman-Jensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "World Development",
+            "volume": "93",
+            "issn": "",
+            "pages": "402--414",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Rural women: Most likely to experience food insecurity and poor health in low-and middle-income countries",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sinclair",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ahmadigheidari",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dallmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Melgar-Qui\u00f1onez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Global Food Security",
+            "volume": "23",
+            "issn": "",
+            "pages": "104--119",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Food Insecurity Is More Strongly Associated with Poor Subjective Well-Being in More-Developed Countries than in Less-Developed Countries",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Frongillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Nh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Coleman-Jensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "The Journal of Nutrition",
+            "volume": "149",
+            "issn": "2",
+            "pages": "330--335",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Food Insecurity Individual Experience: A Comparison of Economic and Social Characteristics of the Most Vulnerable Groups in the World",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Grimaccia",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Na",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Social Indicators Research",
+            "volume": "143",
+            "issn": "1",
+            "pages": "391--410",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Validity of the Food Insecurity Experience Scale for Use in Sub-Saharan Africa and Characteristics of Food-Insecure Individuals",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wambogo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ghattas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Leonard",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Sahyoun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Current Developments in Nutrition",
+            "volume": "2",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Validity of the Food Insecurity Experience Scale and Prevalence of Food Insecurity in the Bahamas",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Karpyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hg",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Knowles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Food Insecurity and Subjective Wellbeing Among Arab Youth Living in Varying Contexts of Political Instability",
+            "authors": [
+                {
+                    "first": "Asfahani",
+                    "middle": [],
+                    "last": "Fea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Adolescent Health",
+            "volume": "64",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Measuring food insecurity and hunger in Peru: A qualitative and quantitative analysis of an adapted version of the USDA's Food Insecurity and Hunger Module",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vargas",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Pm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Public Health Nutrition",
+            "volume": "13",
+            "issn": "10",
+            "pages": "1488--97",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The food insecurity experience scale: development of a global standard for monitoring hunger worldwide. Technical Paper Rome: FAO",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ballard",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kepple",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cafiero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Food insecurity measurement and prevalence estimates during the COVID-19 pandemic in a repeated cross-sectional survey in Mexico",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gait\u00e1n-Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vilar-Compte",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Teruel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "P\u00e9rez-Escamilla",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Public health nutrition",
+            "volume": "24",
+            "issn": "3",
+            "pages": "412--433",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Prevalence of food insecurity among food bank users in Germany and its association with population characteristics",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Depa",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gf",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Eleraky",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hilzendegen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stroebele-Benschop",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Preventive medicine reports",
+            "volume": "9",
+            "issn": "",
+            "pages": "96--101",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Use of the Danish Adoption Register for the study of obesity and thinness. Research publications -Association for Research in Nervous and Mental Disease",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stunkard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "S\u00f8rensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Schulsinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "",
+            "volume": "60",
+            "issn": "",
+            "pages": "115--135",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "RM.weights: Weighted Rasch Modeling and Extensions using Conditional Maximum Likelihood",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "El estado de la seguridad alimentaria y la nutrici\u00f3n en el mundo 2019. Protegerse frente a la desaceleraci\u00f3n y el debilitamiento de la econom\u00eda Roma: FAO",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Fao F",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pma",
+                    "middle": [],
+                    "last": "Oms",
+                    "suffix": ""
+                },
+                {
+                    "first": "Unicef",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Effect of Covid-19 on food security: A cross-sectional survey",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Elsahoryi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Al-Sayyed",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Odeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcgrattan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Hammad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Nutr ESPEN",
+            "volume": "40",
+            "issn": "",
+            "pages": "171--179",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "High prevalence of food insecurity, the adverse impact of COVID-19 in Brazilian favela",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Manfrinato",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marino",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cond\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "Franco",
+                    "middle": [],
+                    "last": "Mdcp",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Stedefeldt",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Tomita",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Public Health Nutrition",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--14",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Prevalence and Social Determinants of Food Insecurity among College Students during the COVID-19 Pandemic",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Owens",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Brito-Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kirkland",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Patterson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nutrients",
+            "volume": "12",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Prevalence and Socio-Demographic Predictors of Food Insecurity in Australia during the COVID-19 Pandemic",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kent",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Penrose",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Auckland",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Visentin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Godrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nutrients",
+            "volume": "12",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "MEF: Todos los peruanos tendr\u00e1n una cuenta bancaria al 28 de julio del 2021",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Peruano",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Determinants and Dynamics of Food Insecurity During COVID-19 2020",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ia",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pakrashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Rahman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Covid-19 and the Subsequent Lockdown Modified Dietary Habits of Almost Half the Population in an Italian Sample",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Scarmozzino",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Vf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Foods",
+            "volume": "9",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Demographic and Family Health Survey (DHS)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Flow diagram Assessed por eligibility (n=2643) Sample considered for analysis (n=1846) Excluded from the analysis 1: n=116 \u27a2 Refused informed consent (n= 116) Excluded from the analysis 2: n=52 \u27a2 Did not respond if they were filling out the survey for the first time (n= 26) \u27a2 Entered the survey again to correct their answers (n= 5) \u27a2 Entered only to see their answers again (n= 7)\u27a2 Did not answer why they were retaking the survey (n= 14)Excluded from the analysis 3: n=629 \u27a2 Did not answer negatively or affirmatively way all the questions of the FIES questionnaire (n= 629)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Food Insecurity Experiences Scale (FIES)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Evaluation of the assumptions of the Rash model of the FIES scale. Item severity. \u1db2St.err: Standard error. \u00a5 Infit: Infit statistic. Acceptable values are in the range of 0\u00b77 -0\u00b713.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "General characteristics of the population studied.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "People with relatives with probable cases of SARS-CoV2",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Bivariate analysis of potential factors associated with moderate or severe food insecurity.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Prevalence ratios of factors associated with moderate-severe food insecurity. Peru",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We want to thank Rikolto in Latin America and the Belgian cooperation for their contribution in designing the advertising campaign on social media. We also thank Colegio de Nutricionistas del",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        },
+        {
+            "text": "OCH, MP and JLC led the design of the study. JLC, OCH, SH, GD, AA, and JPG contributed to designing and validating the instrument and collecting of data. JLC and OAE carried out the data analysis. DAA, JPA and MP were responsible for the interpretation of the results. JLC contributed to the initial drafting of the manuscript based on comments from DAA, MP, and JPA. All authors contributed to the interpretation of data, critical revision of the manuscript and approved the final version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHORSHIP CONTRIBUTIONS"
+        },
+        {
+            "text": "We declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DECLARATION OF INTERESTS"
+        },
+        {
+            "text": "Requests of survey data will be considered for research purposes, while does not conflict with other requests by the study authors. Requests should be made to Jorge L. Ca\u00f1ari-Casa\u00f1o (jorge.canari@outlook.com).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA SHARING"
+        }
+    ]
+}

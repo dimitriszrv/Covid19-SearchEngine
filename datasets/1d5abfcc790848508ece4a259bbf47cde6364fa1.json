@@ -1,0 +1,2858 @@
+{
+    "paper_id": "1d5abfcc790848508ece4a259bbf47cde6364fa1",
+    "metadata": {
+        "title": "International Perspectives on COVID-19 Communication Ecologies: Public Health Agencies' Online Communication in Italy, Sweden, and the United States",
+        "authors": [
+            {
+                "first": "Serena",
+                "middle": [],
+                "last": "Tagliacozzo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Research Council of Italy",
+                    "location": {
+                        "settlement": "Rome",
+                        "country": "Italy"
+                    }
+                },
+                "email": "serena.tagliacozzo@irpps.cnr.it"
+            },
+            {
+                "first": "Frederike",
+                "middle": [],
+                "last": "Albrecht",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Swedish Defence University",
+                    "location": {
+                        "settlement": "Stockholm",
+                        "country": "Sweden"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "N",
+                "middle": [
+                    "Emel"
+                ],
+                "last": "Ganapati",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Florida International University",
+                    "location": {
+                        "settlement": "Miami",
+                        "region": "FL",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Communicating during a crisis can be challenging for public agencies as their communication ecology becomes increasingly complex while the need for fast and reliable public communication remains high. Using the lens of communication ecology, this study examines the online communication of national public health agencies during the COVID-19 pandemic in Italy, Sweden, and the United States. Based on content analysis of Twitter data (n = 856) and agency press releases (n = 95), this article investigates two main questions: (1) How, and to what extent, did national public health agencies coordinate their online communication with other agencies and organizations? (2) How was online communication from the agencies diversified in terms of targeting specific organizations and social groups? Our findings indicate that public health agencies relied heavily on internal scientific expertise and predominately coordinated their communication efforts with national government agencies. Furthermore, our analysis reveals that agencies in each country differed in how they diversify information; however, all agencies provided tailored information to at least some organizations and social groups. Across the three countries, information tailored for several vulnerable groups (e.g., pregnant women, people Crises can place responding organizations under extreme pressure. To address crisis situations, responding organizations engage in communication networks that encompass a wide range of actors (Kapucu, 2006) . Information in these networks flow in various directions: within and between organizations, as well as from organizations to the public and from the public to organizations (Quarantelli, 1997) . However, these information streams are not isolated from each other. They constitute multilevel, interdependent communication ecosystems (Walter et al., 2018) . The lens of communication ecology embraces this complexity, allowing researchers to explore the networks in communication ecosystems that individuals and organizations harness to reach their goals (Broad et al., 2013) .",
+            "cite_spans": [
+                {
+                    "start": 1497,
+                    "end": 1511,
+                    "text": "(Kapucu, 2006)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1687,
+                    "end": 1706,
+                    "text": "(Quarantelli, 1997)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1846,
+                    "end": 1867,
+                    "text": "(Walter et al., 2018)",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 2067,
+                    "end": 2087,
+                    "text": "(Broad et al., 2013)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Utilizing a communication ecology approach in the context of the COVID-19 pandemic, we examine how, and to what extent, national-level scientific public health agencies deliver their communication in a coordinated and collaborative fashion with other organizations, including governmental, nongovernmental, scientific, or international organizations. We also explore whether scientific public health agency messages target different organizations and social groups. Studying these questions is important for several reasons. First, the crisis communication landscape is crowded by multiple organizations and actors that compete for public attention and legitimacy (Hall & Wolf, 2019; Holmes et al., 2009) . Within this multivoice and information-rich environment, it is critical for responding organizations to collaborate with trusted partners for message delivery, in order to reduce information inconsistencies and cognitive stress in affected populations who receive conflicting messages (Hall & Wolf, 2019; Seeger, 2007) . In this respect, without specific efforts to coordinate the communication, functional fragmentation of government agencies may pose the risk of multiplying the type of information provided to the public (Zeemering, 2020). Second, studies have demonstrated that message redundancy (i.e., receiving the same message from different sources) increases the possibility that the information is absorbed and acted on in crisis contexts (Stephens et al., 2013) . Third, messages released in a coordinated and collaborative way avoid the creation of an information vacuum that may otherwise be filled by misinformation. Fourth, adequately tailored messages to different societal sectors or groups can promote an inclusive communication environment and address societal vulnerabilities that may place an undue burden (e.g., higher infection and death rates) on some social groups compared with others in the context of public health crises.",
+            "cite_spans": [
+                {
+                    "start": 664,
+                    "end": 683,
+                    "text": "(Hall & Wolf, 2019;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 684,
+                    "end": 704,
+                    "text": "Holmes et al., 2009)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 992,
+                    "end": 1011,
+                    "text": "(Hall & Wolf, 2019;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1012,
+                    "end": 1025,
+                    "text": "Seeger, 2007)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1457,
+                    "end": 1480,
+                    "text": "(Stephens et al., 2013)",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "We compare communication ecologies of national-level public health agencies in Italy, Sweden, and the United States during the 3 months after the initial outbreak of COVID-19 in each country. This research contributes to the literature by focusing on Serena Tagliacozzo, PhD, is a research fellow and evaluation specialist at the National Research Council of Italy in Rome, Italy. Her research relates to the role of web technology and social media in crises, postimpact intervention, and long-term recovery processes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Frederike Albrecht, PhD, is a senior lecturer at the Department of Security, Strategy and Leadership, Swedish Defence University, and research fellow at the Centre of Natural Hazards and Disaster Science in Sweden. Her research focuses on the social and political impact of crises and disasters, as well as communication during and after extreme events.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "public health agencies' communication networks, which distinguishes it from previous studies that have generally examined the content of health risk communication (e.g., Crook et al., 2016; Rao et al., 2020) . Furthermore, the comparative design of this study provides broader insights into the crisis communication field, where single case studies are more common, especially in the context of public health crises (e.g., D'Souza et al., 2020; Guidry et al., 2017; Rao et al., 2020; Roberts et al., 2017) . Finally, the present study adds to the research literature by examining communication from public health agencies during emergencies, which has received less attention compared with other responding organizations (i.e., those in charge of emergency management).",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 189,
+                    "text": "Crook et al., 2016;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 190,
+                    "end": 207,
+                    "text": "Rao et al., 2020)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 423,
+                    "end": 444,
+                    "text": "D'Souza et al., 2020;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 445,
+                    "end": 465,
+                    "text": "Guidry et al., 2017;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 466,
+                    "end": 483,
+                    "text": "Rao et al., 2020;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 484,
+                    "end": 505,
+                    "text": "Roberts et al., 2017)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Based on a descriptive content analysis of online COVID-19 communications in Italy, Sweden, and the United States through Twitter (n = 856) and press releases (n = 95), we find that health agencies relied heavily on their own scientific expertise and coordinated their communication efforts predominantly with external national government agencies during the initial months of the COVID-19 pandemic in each country. Targeted messages for several organizations and vulnerable social groups were remarkably absent from these agencies' online communication, possibly yielding further negative consequences for these organizations and groups.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Coordination and communication are key components of emergency management, and the research literature addressing these components is extensive. Focusing on interagency relationships (e.g., Comfort, 2007; Comfort et al., 2004; Kapucu, 2006) , one stream of literature highlights the importance of effective communication and coordination with other relevant organizations to achieve common goals in the aftermath of a disaster. Despite this, organizations often encounter organizational, technical, and cultural barriers when they communicate with each other during disaster response (De Sisto & Handmer, 2020) . Thus, forging partnerships before the disaster is critical to overcome some of these barriers (Kapucu, 2006) .",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 204,
+                    "text": "Comfort, 2007;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 205,
+                    "end": 226,
+                    "text": "Comfort et al., 2004;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 227,
+                    "end": 240,
+                    "text": "Kapucu, 2006)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 584,
+                    "end": 610,
+                    "text": "(De Sisto & Handmer, 2020)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 707,
+                    "end": 721,
+                    "text": "(Kapucu, 2006)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "Another stream of literature is dedicated to risk communication, often focusing on how communication is delivered to an external audience in terms of content, channels, and targets (e.g., Covello, 2003) . The present research highlights the importance of disseminating information through multiple channels and tailoring content to the needs of a heterogeneous audience through targeted messaging (Kreuter et al., 1999) . In this study, we adopt a communication ecology approach to analyze public health agency communication in terms of agencies' engagement with other organizations and agencies' target audience (i.e., to whom communication is directed). This approach highlights the interactions between the communication networks of organizations and individuals (Spialek & Houston, 2018) and, therefore, can partially bridge the aforementioned streams of literature.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 202,
+                    "text": "Covello, 2003)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 397,
+                    "end": 419,
+                    "text": "(Kreuter et al., 1999)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 766,
+                    "end": 791,
+                    "text": "(Spialek & Houston, 2018)",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "Various guidelines recommend that parties involved in health risk communication should coordinate and jointly produce messages and specifically target vulnerable and at-risk populations (e.g., Arizona Department of Health Services, 2019; World Health Organization [WHO] , 2020). This can help avoid fragmented or contradictory communication about health risks, as was the case in Italy (Missoni et al., 2020) and other countries during the COVID-19 pandemic. Zeemering (2020) noted that the collaboration with external actors as measured by, for example, Twitter's mentions, could broaden the reach of city government agencies making the information about COVID-19 accessible beyond the council's followers.",
+            "cite_spans": [
+                {
+                    "start": 264,
+                    "end": 269,
+                    "text": "[WHO]",
+                    "ref_id": null
+                },
+                {
+                    "start": 386,
+                    "end": 408,
+                    "text": "(Missoni et al., 2020)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 459,
+                    "end": 475,
+                    "text": "Zeemering (2020)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "In public health crises, social media, such as Twitter and other online platforms, have become prominent channels for people to seek, receive, and share health messages. These media have been proven to be particularly useful in disseminating and monitoring health-related messages (Scanfeld et al., 2010) . At the same time, these platforms have facilitated the propagation of misinformation (Kouzy et al., 2020) and multiplied the number of actors and nonexpert and nonindependent opinions in the health-related information arena. As a result, engaging with other organizations and groups has become increasingly critical for government and public health agencies.",
+            "cite_spans": [
+                {
+                    "start": 281,
+                    "end": 304,
+                    "text": "(Scanfeld et al., 2010)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 392,
+                    "end": 412,
+                    "text": "(Kouzy et al., 2020)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "Studies conducted on public health agencies' communication in the context of prior public health crises have addressed how these agencies have used social media platforms (e.g., Guidry et al., 2017; Guidry et al., 2020; Ophir, 2019; Walton et al., 2012) or print media (e.g., Mebane et al., 2003) , and how they responded to media inquiries (e.g., Robinson & Newstetter, 2003) or monitored communication from news outlets (e.g., Prue et al., 2003) . Other research has focused on social media posts directed by the general public to public health agencies such as the U.S. Centers for Disease Control and Prevention (CDC; Crook et al., 2016) , or has examined the public's awareness of, trust in, and compliance with these agencies (e.g., Chon & Park, 2019; Kowitt et al., 2017) . Additional research has examined the scientific integrity of health agencies and the loss of such integrity under a different political leadership (e.g., Goldman et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 198,
+                    "text": "Guidry et al., 2017;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 199,
+                    "end": 219,
+                    "text": "Guidry et al., 2020;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 220,
+                    "end": 232,
+                    "text": "Ophir, 2019;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 233,
+                    "end": 253,
+                    "text": "Walton et al., 2012)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 276,
+                    "end": 296,
+                    "text": "Mebane et al., 2003)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 348,
+                    "end": 376,
+                    "text": "Robinson & Newstetter, 2003)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 429,
+                    "end": 447,
+                    "text": "Prue et al., 2003)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 622,
+                    "end": 641,
+                    "text": "Crook et al., 2016)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 739,
+                    "end": 757,
+                    "text": "Chon & Park, 2019;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 758,
+                    "end": 778,
+                    "text": "Kowitt et al., 2017)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 935,
+                    "end": 956,
+                    "text": "Goldman et al., 2020)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "With respect to the measures of online engagement, previous studies have often used number of social media replies, mentions, and reuse of information (e.g., retweets; Liu & Xu, 2019; Wukich & Mergel, 2015) . Zeemering (2020) comparatively interrogated coordinated communication about COVID-19 by local government agencies in three cities in the United States as measured by Twitter mentions. In the context of Twitter, previous analyses of engagement during disasters revealed that government organizations mainly rely on trusted institutional sources and amplify information provided by other government organizations (Sutton et al., 2015; Wukich et al., 2019; Wukich & Mergel, 2015) . Liu and Xu (2019) found that emergency management agencies engage most with peer government agencies, citizen groups, and media organizations. Hence, organizational homophily is the main driver of collaboration in disaster situations, meaning that organizations are more inclined to collaborate within their sectoral boundaries (Sapat et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 168,
+                    "end": 183,
+                    "text": "Liu & Xu, 2019;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 184,
+                    "end": 206,
+                    "text": "Wukich & Mergel, 2015)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 620,
+                    "end": 641,
+                    "text": "(Sutton et al., 2015;",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 642,
+                    "end": 662,
+                    "text": "Wukich et al., 2019;",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 663,
+                    "end": 685,
+                    "text": "Wukich & Mergel, 2015)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 688,
+                    "end": 705,
+                    "text": "Liu and Xu (2019)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1016,
+                    "end": 1036,
+                    "text": "(Sapat et al., 2019)",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "Despite extensive research on organizational communication and collaboration in the context of emergency management, few studies have analyzed the application of these recommendations. In particular, previous research has not clearly determined: (1) the extent to which coordination and collaboration among agencies is communicated to an external audience; and, (2) if communication is delivered in a coordinated and collaborative fashion. Hence, in this article, we examine two main research questions:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Literature Review"
+        },
+        {
+            "text": "To what extent have national-level scientific public health agencies delivered their communication in a coordinated and collaborative fashion with other organizations during the COVID-19 pandemic? Research Question 2: Which organizations and social groups have scientific public health agency messages targeted during the pandemic?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Research Question 1:"
+        },
+        {
+            "text": "The present study investigates public health agencies' online communication in three countries: Italy, Sweden, and the United States. While all three countries were affected by the COVID-19 pandemic, they adopted very different strategies to manage the crisis that ranged from keeping nearly all societal sectors open and operational to restrictions that approximated a general lockdown. According to the European Centre for Disease Prevention and Control (ECDC, 2020), as of September 20, 2020, there were a total of 332,440 identified cases in Italy as opposed to 94,987 in Sweden and 6,964,220 in the United States. These rates corresponded to 551, 928, and 2,104 identified cases per 100,000 population, respectively. The United States had the highest mortality rate per 100,000 population (61.71), followed by Italy (59.17) and Sweden (57.50; Johns Hopkins Coronavirus Resource Center, 2020).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cases"
+        },
+        {
+            "text": "The present study focuses on the three countries' health agencies: the Italian National Institute of Health (Istituto Superiore di Sanit\u00e0; ISS), the Public Health Agency of Sweden (Folkh\u00e4lsomyndigheten) , and the CDC in the United States. Given the differences in the political systems and political cultures across the countries, we expected to note several country-specific patterns. We were also interested in identifying some possible intercountry commonalities in the agencies' communication, stemming from their common mission. Indeed, the three agencies are intentionally directed by scientific experts, implying that scientific assessments are the foundation for providing health information and recommendations to the general public and policy makers.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 202,
+                    "text": "(Folkh\u00e4lsomyndigheten)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cases"
+        },
+        {
+            "text": "The study's analysis period begins with the onset of community infections and lasts for a period of 3 months. As disease trends were unique for each country, the dates of study varied for each case, but represented the same stage of crisis management. For Italy, the analysis covered the period between February 21 and May 21, 2020. The Italian government initially adopted local quarantine measures and then extended the lockdown to the entire country. In May, these restrictions were slowly eased. For Sweden, we analyzed online communication from March 10 to June 10, 2020. Sweden kept most societal sectors open, but restricted public gatherings and introduced remote teaching in high schools and universities. In the United States, we examined the period 26 February 26 to May 26, 2020. Due to a decentralized government structure, COVID-19 policies (e.g., nonessential business closures, bans on large gatherings) were left to state and local governments. Figure 1 depicts the timeline of events and the extent of COVID-19 weekly cases during the selected time periods.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 962,
+                    "end": 970,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Cases"
+        },
+        {
+            "text": "The study analyzed information published through Twitter and agency press releases. Twitter played a key role for the public and the government agencies to receive information in the past as well as during the current pandemic (e.g., Chew & Eysenbach, 2010; Rosenberg et al., 2020) . Press releases were available on the agency websites, along with summarized information regarding disease trends and results of studies and projects. We examined a total of 856 Tweets exported from Twitter (Italy, n = 123; Sweden, n = 124; the United States, n = 609) utilizing the NCapture function of the qualitative data analysis software NVivo, combined with 95 press releases from agency websites (Italy, n = 22; Sweden, n = 59; the United States, n = 14).",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 257,
+                    "text": "Chew & Eysenbach, 2010;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 258,
+                    "end": 281,
+                    "text": "Rosenberg et al., 2020)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procedure"
+        },
+        {
+            "text": "Informed by a communication ecologies perspective, the content analysis of these sources aimed to determine the degree of engagement with other organizations and the extent to which communications were diversified by target population. To examine the agencies' engagement with communication partners, we adapted the Martin et al. (2016) conceptualization of organizational engagement in disaster contexts that identified four levels of engagement: communication, cooperation, coordination, and collaboration. The nature of cooperation is short-term and weak, while coordination involves aligning actions to pursue a shared goal (e.g., through information sharing). The greatest level of engagement is collaboration, which refers to intentional, longterm relationships characterized by high levels of interdependency. Note. Source for case counts is ECDC (2020).",
+            "cite_spans": [
+                {
+                    "start": 316,
+                    "end": 336,
+                    "text": "Martin et al. (2016)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procedure"
+        },
+        {
+            "text": "In this study, we focus on health agencies' efforts to (1) communicate with other actors by mentioning them (e.g., mentions); (2) coordinate information with other parties through information resharing (e.g., retweet); and (3) cooperate with other actors through collaborative efforts. The category of collaboration includes sporadic cooperation and more established partnership that translates into information coproduction or collaborative projects. As for the target population, we divided it into two macrocategories: organizations (services/facilities) and social groups. Table 1 provides an overview of all variables and coding examples. We were guided by detailed coding instructions and coded all items abductively in three different languages. To increase intercoder reliability, we discussed unclear text and collaboratively agreed on the appropriate coding. The coding book for the study is available on request.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 577,
+                    "end": 584,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Procedure"
+        },
+        {
+            "text": "The Italian National Institute of Health. The ISS is the leading scientific research agency providing counseling on public health matters to the Ministry of Health, the National Health Service, and the regional councils, as well as to Italian citizens and residents. Its work focuses on preventing diseases, promoting healthy behaviors, treating chronic illness, and controlling the quality and safety of health technologies. The ISS has a website and social media accounts on YouTube and Twitter. It also provides information through a knowledge management platform (ISS Salute) and an online journal (Epicentro).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Italy"
+        },
+        {
+            "text": "Engagement with organizations. Results of the analysis of the engagement levels (mentions, reuses, and collaborations) revealed that the ISS engaged mainly with external government organizations (27.6%) and internal employees (25.5%), whereas the least engaged actors were political officials and domestic nongovernmental organizations (NGOs; see Figure 2 ). Closer examination of different engagement levels revealed that collaborations with external organizations (thus, excluding internal employees and departments) were mainly established with government organizations (9.7%) and scientific institutions (4.1%). The Italian Ministry of Health was the government organization with which the ISS engaged and collaborated the most. As for the reuse of information, in 13.8% of the cases the agency reused information (e.g., quoting a sentence) produced by an ISS employee, and in 8.3% of cases, reused communication from an external government agency (e.g., through retweets). Most of the information reused was originally produced by the Ministry of Health. As for the mentions, in most of the cases the agency mentioned an internal employee (11.7%) or a department (11%), followed by the 9.7% of the cases in which a national government organization was mentioned.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 347,
+                    "end": 355,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "Targeted organizations and groups. As far as the targets of the communication were concerned, facilities and public services were addressed sparingly (see Figure 3 ). \"People older than 70 years should restrict social contacts until further notice.\" (Folkh\u00e4lsomyndigheten, March 16, 2020) Was directed at elderly people",
+            "cite_spans": [
+                {
+                    "start": 250,
+                    "end": 288,
+                    "text": "(Folkh\u00e4lsomyndigheten, March 16, 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 155,
+                    "end": 163,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "The most represented categories were businesses (2.1%) groceries (1.4%), and nursing homes (1.4%). Only one case was reported for hospitals, schools, higher education facilities, and restaurants/entertainment facilities. No information was directed to correctional and mass transit facilities or to faith-based organizations or child care and emergency services. In all, messages were formulated for a general audience (64.1%) containing information (e.g., information about disease trends) that could be relevant for anyone. The social groups most frequently targeted consisted of health care workers (11.7%), people with medical preconditions (9%), and COVID-infected patients (9%). The least represented categories encompassed caregivers (2.8%), parents (2.1%), adolescents, pregnant women, people with disabilities, migrants, and elderly people (all below 2%). No messages were aimed at young adults or homeless people (see Figure 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 928,
+                    "end": 936,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "The Public Health Agency of Sweden. The Public Health Agency of Sweden (Folkh\u00e4lsomyndigheten) is a government agency with scientific expertise on diseases and public health concerns. The agency provides information to the government, which is used as a decision basis for policy makers. The agency is also responsible for implementing policies decided by the government, but it acts independently within given directives. Furthermore, the agency communicates with other agencies on local, regional, and national levels, and communicates with the general public. Its vision is to achieve The agency provides information on social media (Facebook, Twitter, and YouTube) and through the agency website (in the form of a webpage section and press releases). The agency also streamed daily collaborative press conferences live on YouTube during the initial 3 months of the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sweden"
+        },
+        {
+            "text": "Engagement with organizations. The online communication from the Public Health Agency of Sweden mostly consisted of information from their own employees, that is, social media mentions and reuse of information they provided in interviews (18.6%). Apart from internal sources, the agency engaged and collaborated frequently with other government agencies (18%). Engagement with other organizations was low (see Figure 2 ). In the agency's online communication, the least visible engagement included communication with domestic NGOs (2.7%), scientific authorities at the domestic (3.8%) and international levels (3.8%), and political officials (2.7%).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 410,
+                    "end": 418,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "Targeted organizations and groups. The agency targeted multiple organizations directly in online communication, such as restaurants, schools, institutions of higher education, as well as health care facilities and nursing homes (see Figure 3 ). However, the agency rarely addressed other essential organizations, such as grocery stores and mass transit companies (1% and below). Most (80.3%) messages included information directed at the general public. Tailored information was also directed specifically at several social groups, but not all social groups were considered equally. Most frequently targeted were those expressing COVID-19 symptoms, elderly people, and their caregivers (see Figure 4) . Conversely, pregnant women, immigrants, and people with disabilities rarely received tailored information in tweets and press releases (1.1%, 1.6%, and 0%, respectively). Furthermore, of the three messages directed at immigrants, only one was available in a language other than Swedish.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 233,
+                    "end": 241,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 691,
+                    "end": 700,
+                    "text": "Figure 4)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "Centers for Disease Control and Prevention. The CDC is a public health agency housed under the Department of Health and Human Services (DHHS). The agency's mission highlights its national role in \"developing and applying disease prevention and control, environmental health, and health promotion and health education activities designed to improve the health of the people of the U.S.\" (CDC, 2020). The CDC also provides assistance on disease prevention and control to agencies across different sectors as well as international agencies and other nations. The CDC is active on the social media sites of Facebook, Twitter, and YouTube, and it maintains complementary Spanish versions of its web content for Spanish speaking populations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The United States"
+        },
+        {
+            "text": "Engagement with organizations. The CDC's online COVID-19 communication revealed relatively limited collaboration between the agency and other actors. Only a small amount of all communication expressed collaboration. The collaboration was mainly with officials within the DHHS (7.2%) and external government agencies (3.9%), followed by the other category (e.g., Google, Fox News Radio; 1.1%). Within the reuse category, the top subcategory was DHHS officials (11.2%) and the external government agencies (2.1%). A higher share of CDC communication mentioned other agencies compared with the share that indicated collaboration or reused information. DHHS officials (7.2%) and external government agencies (6.4%) were the most mentioned among all subcategories. International organizations were missing from the CDC's online communication, except for one tweet. Other scientific authorities received little attention in the agency's communication. Only 1.1% of CDC communication mentioned such authorities, and none was mentioned as a collaborative partner. The CDC directed relatively more attention to domestic NGOs (4.14%) and political officials (1.6%) by mentioning or indicating collaboration with them compared with the attention it directed toward international agencies and scientific authorities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "Targeted organizations and groups. The CDC directed a small share of information to organizations. In the United States, most of this communication targeted the hospitals and clinics subcategory (3.7%), followed by the businesses subcategory (2.2%) and the other subcategory (1.1%). The other subcategory includes diverse organizations ranging from critical infrastructure industries and organizations that provide critical functions to homeless shelters and camps. In the CDC's online communication, mass transit agencies received the least attention-no communication targeted or included reference to these agencies. Apart from a single targeted communication for each, higher education organizations and restaurants were ignored in CDC communication. There was also limited engagement with facilities that house populations at higher risk for COVID-19, such as correctional facilities (1%), nursing homes (0.8%), and retirement communities (0.3%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "As for the social groups, among all CDC communication, 63.4% targeted the general public and 21% was in the other subcategory, which included groups ranging from family members of COVID-19 patients and deaf persons to crew members of cruise lines and poll workers. In terms of specific social groups, the agency's top targeted audience included health care workers (12%), COVID-19 patients (6.9%), people with preexisting health conditions (5.1%), parents (4.2%), and elderly populations (4%). Disabled persons and young adults were targeted relatively little: 1% and 0.6%, respectively. Caregivers, pregnant women, and adolescents received even fewer targeted messages (0.2% or less).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Online COVID-19 Communication Ecologies"
+        },
+        {
+            "text": "Engagement With Organizations. Overall, we found a higher level of engagement with other organizations in Italy than in Sweden or the United States. Figure 2 depicts engagement with communication partners. In all cases, internal sources were mentioned frequently, and information from internal sources was reused often (Italy: 25.5%, Sweden: 18.6%, the United States: 18.5%). In addition, the CDC engaged with internal partners within the same umbrella organization-that is, DHHS (8.8%). Comparable internal organizations do not exist in Italy or Sweden.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 149,
+                    "end": 157,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Comparison of Cases"
+        },
+        {
+            "text": "Public health agencies engaged with external government agencies as well, although the levels of engagement and collaboration varied between the countries. The ISS in Italy mentioned and reused information from other government agencies and collaborated with them more frequently, but government agencies were essential communication partners in all studied countries (Italy: 27.6%, Sweden: 18%, the United States: 12.4% [excluding organizations within DHHS: 8.8%]). Engagement with political officials was similarly low in all three countries (Italy: 3.5%, Sweden: 2.7%, the United States: 1.6%). In Italy, we found frequent engagement with international organizations such as the WHO and ECDC and domestic scientific authorities, whereas this was less common in Sweden and scarce in the United States (Italy: 19.3%, Sweden: 7.7%, the United States: 1.3%). Finally, in all countries, domestic NGOs were rarely engaged (Italy: 4.1%, Sweden: 2.7%, the United States: 3.7%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Comparison of Cases"
+        },
+        {
+            "text": "In sum, despite expected differences between the countries, we identified several commonalities in the communication delivered by national-level public health agencies. First, these agencies mostly relied on internal actors to coordinate communication, either through the health agency's own staff or internal organizations (e.g., CDC Travel). Second, the health agencies interacted frequently with external government agencies, but kept interaction with political officials to a minimum. Third, the agencies rarely engaged with domestic NGOs in communications relating to COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Comparison of Cases"
+        },
+        {
+            "text": "Targeted Organizations and Groups. Targeted information to specific or social groups varied between the countries (see Figure 3 ). For instance, the Public Health Agency of Sweden targeted more different types of organizations (e.g., education institutions, restaurants, and health care and care facilities), whereas its U.S. counterpart focused on health care facilities and businesses. In Italy, the ISS provided overall less targeted information to different organizations. Interestingly, in all countries, organizations representing essential services in the context of the pandemic (e.g., child care facilities, mass transit organizations, and grocery stores) were rarely or never targeted in health agency messages (1.4% and below).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 119,
+                    "end": 127,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Comparison of Cases"
+        },
+        {
+            "text": "Social groups were targeted to a similar extent in all three countries, but there were variations between countries. Patients were targeted frequently by all three agencies, but Italy and the United States provided more tailored information to health care workers and people with preexisting health conditions that are at higher risk. 1 In contrast, all three countries showed remarkable similarities with regard to social groups neglected by agency messages. For example, information provided on Twitter and in press releases was rarely or never directed at pregnant women, people with disabilities, immigrants, and homeless populations (see Figure 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 643,
+                    "end": 651,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Comparison of Cases"
+        },
+        {
+            "text": "Our analysis revealed several differences and some commonalities in the communication ecologies of health agencies across the three countries during the initial 3 months of the pandemic. Each country is unique in terms of its emergency management, public health and government systems, and social and cultural contexts, so interpreting this study's findings was challenging. However, in this discussion, we propose possible explanations that will need to be examined in future studies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "To begin, our study illustrates that public health agencies in Italy, Sweden, and the United States heavily relied on their own scientific expertise to disseminate COVID-19 information to the public. In the case of the CDC, our finding on the extent of the agency's reliance on its own expertise aligns with Roberts et al. (2017) , who found that the CDC often provided hyperlinks directed to its own website in the context of the Ebola epidemic. Several factors might explain this, including an inward-oriented organizational culture as opposed to one that is more outward looking (Gr\u00f6nroos, 2019; Waterhouse & Lewis, 2004) . Another factor might be that public health agencies wanted to amplify their messaging through science-based primary data in a highly uncertain context such as the COVID-19 pandemic.",
+            "cite_spans": [
+                {
+                    "start": 308,
+                    "end": 329,
+                    "text": "Roberts et al. (2017)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 582,
+                    "end": 598,
+                    "text": "(Gr\u00f6nroos, 2019;",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 599,
+                    "end": 624,
+                    "text": "Waterhouse & Lewis, 2004)",
+                    "ref_id": "BIBREF54"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In addition to engagement via internal employees, the high level of engagement with other national government organizations in all three countries indicates that these entities play an important role within the health agencies' communication ecosystem. Similar patterns of online engagement behaviors were identified by previous literature (Liu & Xu, 2019; Sutton et al., 2015; Wukich & Mergel, 2015; Zeemering, 2020) in which government and emergency agencies proved to engage predominantly with other government organizations. This tendency of health agencies to partner mainly with internal departments or external trusted government partners in their communicative efforts may come at the expense of other organizations. Indeed, domestic NGOs were rarely included in the agencies' communication, implying that they were arguably not seen as relevant sources of information or collaboration partners. Johnson Avery and Kim (2009) noted a general tendency of health agencies such as the WHO and the CDC to make reference to governmental and public partners and exclude private sector organizations in their press releases. On the contrary, previous research and empirical evidence have suggested that NGOs have played a key role providing critical services to those in need during the COVID-19 pandemic, especially to socially vulnerable groups (Akingbola, 2020) . Thus, it seems reasonable to conclude that engaging more frequently with NGOs may increase the health agencies' understanding of different social groups and help NGOs cater to vulnerable groups they serve.",
+            "cite_spans": [
+                {
+                    "start": 340,
+                    "end": 356,
+                    "text": "(Liu & Xu, 2019;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 357,
+                    "end": 377,
+                    "text": "Sutton et al., 2015;",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 378,
+                    "end": 400,
+                    "text": "Wukich & Mergel, 2015;",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 401,
+                    "end": 417,
+                    "text": "Zeemering, 2020)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 912,
+                    "end": 932,
+                    "text": "Avery and Kim (2009)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1347,
+                    "end": 1364,
+                    "text": "(Akingbola, 2020)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Compared with the other two countries, Italy's higher engagement with international organizations such as the WHO and ECDC, as well as domestic scientific authorities, can be explained by the need for assistance and initial guidance to manage an unprecedented crisis. Indeed, Italy was the first European country to be affected by the pandemic (Vagnoni, 2020) , so the country was unable to pattern its response based on the experiences of other countries. Although the COVID-19 outbreak originated in China, the country's authoritarian government disclosed limited information on the outbreak and how to mitigate it initially (Zhang et al., 2020) . Hence, Italy may have needed to draw expertise from international organizations, such as the WHO, which had extensive experience in responding to public health crises, such as the H1N1, severe acute respiratory syndrome (SARS), and the Ebola outbreaks. Conversely, Sweden and the United States managed the pandemic in different ways: Sweden pursued a soft approach built on individual responsibility and voluntary recommendations, which was criticized by international actors (Giritli Nygren & Olofsson, 2020) . In the United States, crisis management was left to states and local decision makers. Both management styles may have led to decreased engagement with international organizations.",
+            "cite_spans": [
+                {
+                    "start": 344,
+                    "end": 359,
+                    "text": "(Vagnoni, 2020)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 627,
+                    "end": 647,
+                    "text": "(Zhang et al., 2020)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 1126,
+                    "end": 1159,
+                    "text": "(Giritli Nygren & Olofsson, 2020)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Regarding the information targets, some notable differences must be highlighted. Unlike the ISS and the CDC, the Swedish agency had a higher percentage of messages targeting different types of organizations. This might be explained by Sweden's decision to keep borders, schools (under the age of 16 years), and many businesses, including restaurants and bars, open and operational (instead of pursuing lockdown measures that were applied in Italy and parts of the United States) with the resulting need to maintain open communication channels with businesses and services. Some key organizations or services that had to remain fully operational during the peak of the pandemic, such as mass transit facilities, correctional services and grocery stores, were rarely targeted by communications from the health agencies in any of the countries. It is possible that the public health agencies assumed that individual responsibility weighs most in these contexts, especially in Sweden (Giritli Nygren & Olofsson, 2020) . The agencies might have considered that their agencies' charge did not go beyond communicating with the general public that use these organizations' facilities or services. Furthermore, public health agencies might have perceived these organizations as falling outside their area of responsibility or they might have established other communication channels with these organizations. Limited communication with these organizations might also be explained by negative social construction of population groups using these facilities (e.g., how low-income individuals and prisoners are portrayed in negative terms; Schneider & Ingram, 1993) .",
+            "cite_spans": [
+                {
+                    "start": 980,
+                    "end": 1013,
+                    "text": "(Giritli Nygren & Olofsson, 2020)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1628,
+                    "end": 1653,
+                    "text": "Schneider & Ingram, 1993)",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The analysis also indicates clear differences in the degree to which social groups were targeted by the three agencies. Some differences (e.g., targeting of health care workers) may be explained by how the public health system in each country is structured. For example, in Sweden, the health care sector is managed on a regional level in collaboration with national government agencies other than the Public Health Agency of Sweden. Thus, guidelines for health care workers do not fall under the jurisdiction of the health agency. When targeting elderly people, considerations regarding the digital divide (i.e., technology use is less common in older vs. younger populations) may have affected agencies' online communication in Italy and the United States (Colombo et al., 2018) , the elderly social group was targeted at low rates in these communications. Conversely, in Sweden, 96% of people between the ages 65 and 74 years, and 77% of people between the ages 75 and 84 years, use the internet (Statistiska centralbyr\u00e5n, 2020). In addition, half of all people 70 years and older used the internet to retrieve information on the COVID-19 pandemic regularly, possibly resulting in a greater need to communicate with them through web-based tools (Gustavsson & Beckman, 2020) . Another explanation may be found in the Swedish strategy, which strongly focused on the protection of elderly people as a core vulnerable group, accompanied with repeated and specific recommendations for elderly people to self-isolate.",
+            "cite_spans": [
+                {
+                    "start": 758,
+                    "end": 780,
+                    "text": "(Colombo et al., 2018)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1248,
+                    "end": 1276,
+                    "text": "(Gustavsson & Beckman, 2020)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Despite these significant variations in the most targeted social groups, we found evidence for several commonalities across countries. Unsurprisingly, people with COVID-19 symptoms were targeted frequently by all agencies. More important, however, we found that the agencies did not often tailor information for groups such as pregnant women, people with disabilities, immigrants, and homeless populations. These groups are generally regarded as the particularly vulnerable in cases of a disaster or crisis (Tierney, 2014) , and studies have repeatedly highlighted the importance of their preparedness for public health emergencies (Andrulis et al., 2007) . This result echoes the findings by Sutton et al. (2020) , who analyzed Twitter communications by governmental public health agencies in the United States during the first 2 months of the pandemic noting the absence of hashtags specifically directed to at-risk groups. Tailored messages, as opposed to broad messages targeting the general public, are needed to reach different social groups, specifically in the context of health communication (Kreuter et al., 1999) . Public health agency communication strategies must provide vulnerable groups with relevant, adequate, and specific information; if vulnerable groups are excluded or not targeted, their capacity to prepare for and respond to crises may be negatively affected, ultimately exacerbating existing social inequalities. The studied agencies may have provided tailored information to vulnerable groups on other platforms; however, individuals from these groups would need to commit additional time and effort (e.g., active search in the webpages) to access such information.",
+            "cite_spans": [
+                {
+                    "start": 507,
+                    "end": 522,
+                    "text": "(Tierney, 2014)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 632,
+                    "end": 655,
+                    "text": "(Andrulis et al., 2007)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 693,
+                    "end": 713,
+                    "text": "Sutton et al. (2020)",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1101,
+                    "end": 1123,
+                    "text": "(Kreuter et al., 1999)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This study is restricted to data from Twitter and agency press releases. Future research should include additional information sources (e.g., Facebook, agency websites) to provide a more comprehensive understanding of public health agencies' online communication. Future studies should also compare the agencies' COVID-19 communication to their pre-COVID-19 communication patterns to highlight significant shifts and to understand similarities and differences in communication trends in other public health emergencies (e.g., H1N1 or Ebola). Furthermore, our study examined communication efforts from the perspective of health agencies. Additional studies could examine how these agencies' communications are perceived and acted on by their audience.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This article provides a comparative analysis of online communication ecologies of public health agencies in Italy, Sweden, and the United States. Findings indicate that, although the communication ecosystems varied across the countries, there were several noteworthy commonalities. In particular, we found similar patterns in the type of organizations that public health agencies engaged and collaborated with and the type of organizations and groups that were mostly ignored by these communication ecosystems. Overall, the study illustrates that some features of these communication networks persist across geographical and organizational boundaries. These \"closed\" communication ecosystems may exclude other relevant partners and groups from communication activities and ultimately undermine the efficacy of the communication efforts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "The identification of organizations and groups that are neglected across cases is a remarkable result because it illustrates broader trends. First, while agencies heavily rely on internal sources and external government agencies, other organizations (e.g., domestic NGOs) were underrepresented in all three cases. Given the essential role many NGOs fulfill during crises, interaction with these organizations may improve agency communication and create more inclusive communication ecosystems. Second, social groups that were rarely or never targeted in communication efforts belong to groups that have been previously identified as particularly vulnerable to disasters. It is crucial to provide them with tailored and adequate information to increase their access to relevant information and improve their coping capacities. Lack of tailored information for vulnerable groups indicates a need to adapt communication strategies and implement policies that focus on including vulnerable social groups more adequately in communication efforts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19: The prospects for nonprofit human resource management",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Akingbola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Canadian Journal of Nonprofit and Social Economy Research",
+            "volume": "11",
+            "issn": "1",
+            "pages": "16--20",
+            "other_ids": {
+                "DOI": [
+                    "10.29173/cjnser.2020v11n1a372"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Preparing racially and ethnically diverse communities for public health emergencies",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Andrulis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Siddiqui",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gantner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "26",
+            "issn": "",
+            "pages": "1269--1279",
+            "other_ids": {
+                "DOI": [
+                    "10.1377/hlthaff.26.5.1269"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Arizona Pandemic Influenza Response Plan",
+            "authors": [],
+            "year": 2019,
+            "venue": "Arizona Department of Health Services",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Understanding communication ecologies to bridge communication research and community action",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Broad",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ognyanova",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Villanueva",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ball-Rokeach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Journal of Applied Communication Research",
+            "volume": "41",
+            "issn": "4",
+            "pages": "325--345",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/00909882.2013.844848"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pandemics in the age of Twitter: Content analysis of tweets during the 2009 H1N1 outbreak",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chew",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Eysenbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLOS ONE",
+            "volume": "5",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0014118"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Predicting public support for government actions in a public health crisis: Testing fear, organization-public relationship, and behavioral intention in the framework of the situational theory of problem solving. Health Communication",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Chon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10410236.2019.1700439"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "I use it correctly!\": The use of ICTs among Italian grandmothers in a generational perspective",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Colombo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Aroldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Carlo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Human Technology",
+            "volume": "14",
+            "issn": "3",
+            "pages": "343--365",
+            "other_ids": {
+                "DOI": [
+                    "10.17011/ht/urn.201811224837"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Crisis management in hindsight: Cognition, communication, coordination, and control",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Comfort",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Public Administration Review",
+            "volume": "67",
+            "issn": "S1",
+            "pages": "189--197",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1540-6210.2007.00827.x"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Coordination in rapidly evolving disaster response systems",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Comfort",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zagorecki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "American Behavioral Scientist",
+            "volume": "48",
+            "issn": "3",
+            "pages": "295--313",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0002764204268987"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Best practices in public health risk and crisis communication",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Covello",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of Health Communication",
+            "volume": "8",
+            "issn": "S1",
+            "pages": "5--8",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/713851971"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Content analysis of a live CDC Twitter chat during the 2014 Ebola outbreak",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Crook",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Glowacki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Suran",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bernhardt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Communication Research Reports",
+            "volume": "33",
+            "issn": "4",
+            "pages": "349--355",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/08824096.2016.1224171"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Communication: The key for an effective interagency collaboration within the bushfire investigation network",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Sisto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Handmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "International Journal of Emergency Services",
+            "volume": "9",
+            "issn": "3",
+            "pages": "299--312",
+            "other_ids": {
+                "DOI": [
+                    "10.1108/IJES-04-2019-0020"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "YouTube as a source of medical information on the novel coronavirus 2019 disease (COVID-19) pandemic",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "D&apos;souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Strand",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Vogt",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Olatoye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Global Public Health",
+            "volume": "15",
+            "issn": "7",
+            "pages": "935--942",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/17441692.2020.1761426"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Publications and data",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Our mission: To strengthen and develop public health",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Folkh\u00e4lsomyndigheten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Managing the Covid-19 pandemic through individual responsibility: The consequences of a world risk society and enhanced ethopolitics",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Giritli Nygren",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Olofsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Risk Research",
+            "volume": "23",
+            "issn": "7-8",
+            "pages": "1031--1035",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13669877.2020.1756382"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Perceived losses of scientific integrity under the Trump administration: A survey of federal scientists",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Goldman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Carter",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLOS ONE",
+            "volume": "15",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0231929"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Reforming public services: Does service logic have anything to offer? Public Management Review",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gr\u00f6nroos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "21",
+            "issn": "",
+            "pages": "775--788",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/14719037.2018.1529879"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Ebola on Instagram and Twitter: How health organizations address the health crisis in their social media engagement",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Guidry",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Orr",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Messner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Meganck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Public Relations Review",
+            "volume": "43",
+            "issn": "3",
+            "pages": "477--486",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pubrev.2017.04.009"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Tweeting about #diseases and #publichealth: Communicating global health issues across nations. Health Communication",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Guidry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Meganck",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lovari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Messner",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Medina-Messner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sherman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "35",
+            "issn": "",
+            "pages": "1137--1145",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10410236.2019.1620089"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Compliance to recommendations and mental health consequences among elderly in Sweden during the initial phase of the COVID-19 pandemic: A cross sectional online survey",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gustavsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Beckman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "International Journal of Environmental Research and Public Health",
+            "volume": "17",
+            "issn": "15",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/ijerph17155380"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Whose crisis? Pandemic flu, \"communication disasters\" and the struggle for hegemony. Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1363459319886112"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Communicating with the public during health crises: Experts' experiences and opinions",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Henrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hancock",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Lestou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of Risk Research",
+            "volume": "12",
+            "issn": "6",
+            "pages": "793--807",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13669870802648486"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Mortality analysis",
+            "authors": [],
+            "year": 2020,
+            "venue": "Johns Hopkins Coronavirus Resource Center",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Anticipating or precipitating crisis? Health agencies may not be heeding best practice advice in avian flu press releases",
+            "authors": [
+                {
+                    "first": "Johnson",
+                    "middle": [],
+                    "last": "Avery",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of Public Relations Research",
+            "volume": "21",
+            "issn": "2",
+            "pages": "187--197",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10627260802557449"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Interagency communication networks during emergencies: Boundary spanners in multiagency coordination",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kapucu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "American Review of Public Administration",
+            "volume": "36",
+            "issn": "2",
+            "pages": "207--225",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0275074005280605"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Coronavirus goes viral: Quantifying the COVID-19 misinformation epidemic on Twitter",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kouzy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Abi Jaoude",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kraitem",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "El Alam",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Karam",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Adib",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zarka",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Traboulsi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Akl",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Baddour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cureus",
+            "volume": "12",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7759/cureus.7255"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Awareness and trust of the FDA and CDC: Results from a national sample of US adults and adolescents",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kowitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hannan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Goldstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLOS ONE",
+            "volume": "12",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0177546"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Understanding how people process health information: A comparison of tailored and nontailored weight-loss materials",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kreuter",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bull",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Oswald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Health Psychology",
+            "volume": "18",
+            "issn": "5",
+            "pages": "487--494",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/0278-6133.18.5.487"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Tweeting to (selectively) engage: How government agencies target stakeholders on Twitter during Hurricane Harvey",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "International Journal of Communication",
+            "volume": "13",
+            "issn": "",
+            "pages": "4917--4939",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The four Cs of disaster partnering: Communication, cooperation, coordination and collaboration",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nolte",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Vitolo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Disasters",
+            "volume": "40",
+            "issn": "4",
+            "pages": "621--643",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/disa.12173"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Communicating anthrax in 2001: A comparison of CDC information and print media accounts",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mebane",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Temin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Parvanta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of Health Communication",
+            "volume": "8",
+            "issn": "",
+            "pages": "50--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/713851970"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "What can we learn from the management of the institutional communication during the Covid-19 emergency?",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Missoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ussai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Armocida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "113",
+            "issn": "",
+            "pages": "81--88",
+            "other_ids": {
+                "DOI": [
+                    "10.3280/MESA2020-113011"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "The effects of news coverage of epidemics on public support for and compliance with the CDC: An experimental study",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ophir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Health Communication",
+            "volume": "24",
+            "issn": "5",
+            "pages": "547--558",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10810730.2019.1632990"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Communication monitoring: Shaping CDC's emergency risk communication efforts",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Prue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lackey",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Swenarski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gantt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of Health Communication",
+            "volume": "8",
+            "issn": "S1",
+            "pages": "35--49",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/713851975"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Problematical aspects of the information/communication revolution for disaster planning and research: Ten non-technical issues and questions. Disaster Prevention and Management",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Quarantelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "",
+            "volume": "6",
+            "issn": "",
+            "pages": "94--106",
+            "other_ids": {
+                "DOI": [
+                    "10.1108/09653569710164053"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Retweets of officials' alarming vs reassuring messages during the COVID-19 pandemic: Implications for crisis management",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vemprala",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Akello",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Valecha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "International Journal of Information Management",
+            "volume": "55",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijinfomgt.2020.102187"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Digital health communication and global public influence: a study of the Ebola epidemic",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Seymour",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fish",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Zuckerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Health Communication",
+            "volume": "22",
+            "issn": "S1",
+            "pages": "51--58",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10810730.2016.1209598"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Uncertain science and certain deadlines: CDC responses to the media during the anthrax attacks of",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Newstetter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of Health Communication",
+            "volume": "8",
+            "issn": "",
+            "pages": "17--34",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/713851980"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "The Twitter pandemic: The critical role of Twitter in the dissemination of medical information and misinformation during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rosenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Syed",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rezaie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Canadian Journal of Emergency Medicine",
+            "volume": "22",
+            "issn": "4",
+            "pages": "418--421",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/cem.2020.361"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Understanding collaboration in disaster assistance networks: Organizational homophily or resource dependency?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sapat",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Esnard",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kolpakov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "American Review of Public Administration",
+            "volume": "49",
+            "issn": "8",
+            "pages": "957--972",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0275074019861347"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Dissemination of health information through social networks: Twitter and antibiotics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Scanfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Scanfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "American Journal of Infection Control",
+            "volume": "38",
+            "issn": "3",
+            "pages": "182--188",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajic.2009.11.004"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Social construction of target populations: Implications for politics and policy",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ingram",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "American Political Science Review",
+            "volume": "87",
+            "issn": "2",
+            "pages": "334--347",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2939044"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Best practices in crisis communication: An expert panel process",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Seeger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of Applied Communication Research",
+            "volume": "34",
+            "issn": "3",
+            "pages": "232--244",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/00909880600769944"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "The development and initial validation of the citizen disaster communication assessment (CDCA)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Spialek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Houston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Communication Research",
+            "volume": "45",
+            "issn": "6",
+            "pages": "934--955",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0093650217697521"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Befolkningens it-anv\u00e4ndning 2020",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Statistiska Centralbyr\u00e5n",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Organizational communication in emergencies: Using multiple channels and sources to combat noise and capture attention",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Stephens",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Barrett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mahometa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Human Communication Research",
+            "volume": "39",
+            "issn": "2",
+            "pages": "230--251",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/hcre.12002"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Terse messaging and public health in the midst of natural disasters: The case of the Boulder floods",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "League",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sellnow",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Sellnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Health Communication",
+            "volume": "30",
+            "issn": "2",
+            "pages": "135--143",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10410236.2014.974124"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "The first 60 days: American public health agencies' social media strategies in the emerging COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Renshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Butts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Health Security",
+            "volume": "18",
+            "issn": "6",
+            "pages": "454--460",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hs.2020.0105"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "The social roots of risk: Producing disasters, promoting resilience",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tierney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1515/9780804791403"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Coronavirus came to Italy almost 6 months before the first official case, new study shows",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vagnoni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "World Economic Forum",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Communication ecologies: Analyzing adoption of false beliefs in an information-rich environment",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Walter",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ball-Rokeach",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Broad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Science Communication",
+            "volume": "40",
+            "issn": "5",
+            "pages": "650--668",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1075547018793427"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Strategic use of YouTube during a national public health crisis: The CDC's response to the 2009 H1N1 flu epidemic. Case Studies in Strategic Communication",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Walton",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Seitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ragsdale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "1",
+            "issn": "",
+            "pages": "25--37",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Communicating culture change: HRM implications for public sector organizations",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Waterhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lewis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Public Management Review",
+            "volume": "6",
+            "issn": "3",
+            "pages": "353--376",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/1471903042000256538"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Risk communication and community engagement readiness and response to coronavirus disease (COVID-19): Interim guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Cross-sector emergency information networks on social media: Online bridging and bonding communication patterns",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wukich",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Siciliano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "American Review of Public Administration",
+            "volume": "49",
+            "issn": "7",
+            "pages": "825--839",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0275074019861701"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Reusing social media information in government",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wukich",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mergel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Government Information Quarterly",
+            "volume": "33",
+            "issn": "2",
+            "pages": "305--312",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.giq.2016.01.011"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Functional fragmentation in city hall and Twitter communication during the COVID-19 Pandemic: Evidence from Atlanta",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zeemering",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Article 101539",
+            "volume": "38",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.giq.2020.101539"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Effective risk communication for public health emergency: Reflection on the COVID-19 (2019-nCoV) outbreak in Wuhan",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Healthcare",
+            "volume": "8",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/healthcare8010064"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "COVID-19 timelines and weekly case count per 100,000.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Engagement with organizations. \"a public health that strengthens the positive development of society\" (Folkh\u00e4lsomyndigheten, 2016, p. 4). During the COVID-19 pandemic and previous health crises, scientific experts in the agency played a dominant role in disseminating information to the public and recommendations to the government (Giritli Nygren & Olofsson, 2020).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Organizations targeted by online communication (selected).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Social groups targeted by online communication (selected).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Operationalization and Coding Examples. Category",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We are grateful to Kaila Williams (Florida International University) and to Tobias Doverholt (Swedish Defence University) for their contribution to the data analysis and to Arnaldo Gonzales (Florida International University) for language and style editing. We also would like to acknowledge the valuable inputs provided by the political science research seminar at the Swedish Defence University.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of Conflicting Interests"
+        },
+        {
+            "text": "The author(s) received no financial support for the research, authorship, and/or publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        }
+    ]
+}

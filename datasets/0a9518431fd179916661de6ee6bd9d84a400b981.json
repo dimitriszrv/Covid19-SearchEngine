@@ -1,0 +1,560 @@
+{
+    "paper_id": "0a9518431fd179916661de6ee6bd9d84a400b981",
+    "metadata": {
+        "title": "Characteristics of Clinically Asymptomatic Patients with SARS-CoV-2 Infections, Case Series",
+        "authors": [
+            {
+                "first": "Miki",
+                "middle": [],
+                "last": "Goldenfeld",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "B",
+                "middle": [],
+                "last": "Msc",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ran",
+                "middle": [],
+                "last": "Nir-Paz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ";",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gadi",
+                "middle": [],
+                "last": "Segal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elhanan",
+                "middle": [],
+                "last": "Bar-On",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ella",
+                "middle": [],
+                "last": "Mendelson",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Michal",
+                "middle": [],
+                "last": "Mandelboim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dana",
+                "middle": [
+                    "G"
+                ],
+                "last": "Wolf",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Edith",
+                "middle": [
+                    "M"
+                ],
+                "last": "Marom",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tomer",
+                "middle": [],
+                "last": "Israely",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hagit",
+                "middle": [],
+                "last": "Achdout",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Galia",
+                "middle": [],
+                "last": "Rahav",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "W",
+                "middle": [
+                    "P"
+                ],
+                "last": "Hanage",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gili",
+                "middle": [],
+                "last": "Regev-Yochay",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Up until now, there is much debate about the role of asymptomatic patients and paucisymptomatic patients in severe acute respiratory syndrome novel coronavirus 2 (SARS-CoV-2) transmission, and little is known about the kinetics of viral ribonucleic acid (RNA) shedding in these populations. This article aims to describe key features and the nature of asymptomatic and pauci-symptomatic SARS-CoV-2 infected patients. The cohort consisted of six participants, three pairs, which were infected with SARS-CoV-2 during February 2020 on board the Diamond Princess. Of the six confirmed (reverse transcription polymerase chain reaction [RT-PCR]) cases, four were initially diagnosed in Japan and two upon their arrival to Israel. Duration of infection was between four days and up to 26 days. Of the six patients, three were completely asymptomatic and the others were paucisymptomatic. All five patients in whom a computerized tomography (CT) scan was performed had lung pathology. In one patient, infectivity was tested using cell culture and a cytopathic effect was demonstrated. A serology test was performed in three of the patients and all three had a positive immunoglobulin G (IgG) four to eight weeks after disease onset. This case series demonstrates that asymptomatic and pauci-symptomatic patients may play a role in infection transmission by demonstrating probable transmission among asymptomatic spouses and by demonstrating a viable virus via a cell culture. Additionally, asymptomatic and pauci-symptomatic patients can have lung pathology and developing IgG antibodies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "There is much debate regarding the nature, significance, and role in coronavirus disease 2019 (COVID-19) transmission of asymptomatic and pauci-symptomatic patients. The 1 article presents a case series of six among 15 Israeli passengers on the Diamond Princess who were infected with severe acute respiratory syndrome novel coronavirus 2 (SARS-CoV-2) and were all either completely asymptomatic or pauci-symptomatic during the period of observation until recovery.",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 171,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Six of the 15 Israeli citizens on the Diamond Princess tested positive for SARS-CoV-2 by reverse transcription polymerase chain reaction (RT-PCR) of the SARS-CoV-2 Envelope (E) gene; nasopharyngeal and oropharyngeal swabs were obtained. Four of the patients were diagnosed while on board the ship and two additional citizens were diagnosed upon their arrival in Israel. They were quarantined for 14 days in a designated quarantine facility at the Sheba Medical Center (Ramat Gan, Israel) and followed to determine whether they developed COVID-19 disease during hospitalization in Israel. During hospitalization, RT-PCR tests were performed every three to four days. A summary of all six cases is shown in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 705,
+                    "end": 712,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Case Presentations"
+        },
+        {
+            "text": "A 71-year-old man with non-insulin dependent diabetes (NIDDM) was positive on board the ship (Case One). He was admitted on February 15, 2020 in Japan with low-grade fever and his chest computerized tomography (CT) scan demonstrated peripheral and bronchovascular consolidative nodules. Intravenous quinolone was started. His course of disease was uneventful with fever resolution within a few days. He was discharged after two negative PCR tests on March 5, 2020. Serology performed in Israel on April 8, 2020 was positive for SARS-CoV-2 immunoglobulin G (IgG) antibodies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case 1"
+        },
+        {
+            "text": "A 67-year-old woman, wife of Case One, was positive on the same day as her husband. She also had NIDDM. She was completely asymptomatic during the whole time of her hospitalization. She received oral quinolones for a few days. Her chest CT scan revealed consolidative and ground glass peripheral nodules. She was followed for three weeks until two negative PCR tests were reported on March 10, 2020. Serology performed on April 8, 2020 was positive for SARS-CoV-2 IgG antibodies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case 2"
+        },
+        {
+            "text": "A 74-year-old woman was admitted to a hospital in Japan on February 17, 2020 following a positive PCR test. She denied any particular symptom, but upon specific questioning she recalled having a cough for two weeks prior to the positive test. A chest CT scan performed on admission showed peripheral nodular opacities with the reversed halo sign. Four days after admission, a repeated PCR was negative. She was discharged on February 25, 2020 following an additional negative PCR test.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case 3"
+        },
+        {
+            "text": "A 76-year-old man, husband of Case Three, was repatriated to Israel after testing negative in Japan. He was otherwise healthy. The patient was admitted to Chaim-Sheba Medical Center for quarantine on February 21, 2020. Upon his arrival from Japan, he tested negative for SARS-CoV-2 and was totally asymptomatic. On February 24, 2020, the patient tested positive while still being completely asymptomatic. On day four, he had a single episode of headache which was relieved with acetaminophen. On days five and seven, the patient tested negative for SARS-CoV-2 and was discharged (Figure 1) . A CT scan performed prior to discharge showed right lower lobe ground glass opacities ( Figure 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 579,
+                    "end": 589,
+                    "text": "(Figure 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 680,
+                    "end": 688,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Case 4"
+        },
+        {
+            "text": "A 62-year-old woman with a history of gastro-esophageal reflux, asthma, hypothyroidism, dyslipidemia, and a previous cerebrovascular accident/CVA; medications included Montelukast, Eltroxin, Aspirin, Omeprazole, Simvastatin, and Relvar inhaler. The patient was repatriated to Israel after testing negative in Japan, but tested positive upon her arrival on February 21, 2020 when she was completely asymptomatic. She was hospitalized for 27 days on which she had frequent complaints of emotional stress and various transient physical complaints including a 48-hour event of a-typical chest pain without electrocardiogram dynamics and a single complaint of minor productive cough which she failed to produce for testing. The patient was never febrile. The results of her SARS-CoV-2 RT-PCR tests are presented in Figure 1 . The viral load gradually decreased, but from day 17 in consecutive tests, varying viral loads were detected. Finally, she had two consecutive negative tests on days 26 and 27 of her hospitalization.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 810,
+                    "end": 818,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Case 5"
+        },
+        {
+            "text": "Nasal and throat swabs sampled on February 25, 2020 showed a notable cytopathic effect on Vero E6 cell culture.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case 5"
+        },
+        {
+            "text": "A 69-year-old man, husband of Case Five and brother of Case Three, with a history of ischemic heart disease, obesity, S/P acute pericarditis, and prostatectomy, treated with aspirin and atenolol. He had a positive PCR on board the ship and was admitted on February 21, 2020 in Japan. He was completely asymptomatic. On admission in Japan, his chest CT scan demonstrated one ground glass nodule and one consolidative nodule. On that day, he had a single episode of low-grade fever of 37.4\u00b0C. He was discharged after two negative tests on February 27, 2020. A PCR test upon his return to Israel on February 28, 2020 (day eight) was positive and he was admitted to the quarantine department for a total of six days, during which he was totally asymptomatic. He was discharged after two negative tests were reported on days 12 and 13 since his initial diagnosis. Serology performed on April 28, 2020 was positive for COVID-19 IgG.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case 6"
+        },
+        {
+            "text": "Due to lack of symptoms and in order to protect the medical crew, blood samples were not collected during hospitalization. Thus, potential important medical data are missing. Another limitation is the small sample size which decreases the statistical power of these findings. And last, only three out of six patients were willing to have an antibody test. That being said, the authors believe that this case series provides a few research leads that should be furthered explored.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Research Limitations"
+        },
+        {
+            "text": "While medicine understandably focuses on severe presentation of disease, to understand COVID-19 epidemiology and guide an effective public health response, the properties must be understood of infections that do not produce severe disease but may still contribute to transmission and/or population level immunity. 1 Evidence of the presence of asymptomatic SARS-CoV-2 infections has accumulated in the last few months, and it is now known that the proportion of asymptomatic patients is not negligible. 2 In the case of the Diamond Princess cruise ship, 32% of the confirmed SARS-CoV-2 infections were reported to be asymptomatic, and approximately 10% of the cohort was presymptomatic. 3 Of the 15 Israeli travelers on the Diamond Princess, six (40%) were eventually positive for SARS-CoV-2. Of the six patients, three exhibited no symptoms whatsoever. Two patients were paucisymptomatic and a third patient had mild symptoms which could not be attributed to SARS-CoV-2 infection. While all the patients were either asymptomatic or pauci-symptomatic, all those for whom a CT scan was performed exhibited abnormal signs at some stage, as has been reported in COVID-19 patients. 4",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 315,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 503,
+                    "end": 504,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 687,
+                    "end": 688,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion and Conclusions"
+        },
+        {
+            "text": "Goldenfeld \u00a9 2020 Prehospital and Disaster Medicine At present, there is much debate on the interpretation of PCR results of SARS-CoV-2. Sensitivity of the test depends on swabbing technique, whether oropharyngeal swab or both oropharyngeal and nasopharyngeal swabs are obtained, and the specific RT-PCR kits used of PCR test results is unclear. In this study, patient six was initially discharged from Japan following two negative tests before subsequently testing positive again upon arrival to Israel. It has been suggested that a positive PCR test may not reflect the presence of viable virus particles, and hence may be less significant for the understanding of infection and transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion and Conclusions"
+        },
+        {
+            "text": "Here, it is demonstrated that at least for one of the asymptomatic patients with relatively low but persistent ribonucleic acid (RNA) shedding, as detected by PCR, viable virus was demonstrated in culture.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion and Conclusions"
+        },
+        {
+            "text": "Understanding viral kinetics and shedding versus RNA shedding will help to better control and manage future waves of infection. 1 Studies that are under review suggest that asymptomatic patients have a faster viral clearance. 5 It is yet to be shown whether resolution of symptoms is associated with clearance of all viable virus.",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 129,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 226,
+                    "end": 227,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion and Conclusions"
+        },
+        {
+            "text": "Furthermore, in almost all cases, an abnormal chest CT was documented, indicating a pathological process taking place in these asymptomatic/pauci-symptomatic patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion and Conclusions"
+        },
+        {
+            "text": "A study by Mizumoto, et al 6 showed a prevalence of 17.9% of asymptomatic cases on board the Princess Diamond cruise ship. They claim that there is still no evidence that asymptomatic patients play a role in transmission. The article demonstrates that asymptomatic infections may result in transmission, as suggested by the fact that the cases described occurred among three couples, in which it is presumed that one spouse infected the other. Furthermore, a viable virus was detected from an asymptomatic patient. This is also supported by the work by Arons, et al 7 which reports transmission from a presymptomatic patient. Moreover, the current results reflect an infectious process with some element of pathology, even if it does not lead to overt COVID-19 disease due to the demonstration of a pathological lung process in the CT scans. These observations add to accumulating data on the potential role of asymptomatic patients in transmission of SARS-CoV-2 and the dissemination of the COVID-19 pandemic and the resultant benefit of large-scale test trace and isolate programs in the prevention of disease spread.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion and Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Factors that make an infectious disease outbreak controllable",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "101",
+            "issn": "16",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Sci China Life Sci",
+            "volume": "63",
+            "issn": "5",
+            "pages": "706--711",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical characteristics of COVID-19 in 104 people with SARS-CoV-2 infection on the Diamond Princess cruise ship: a retrospective analysis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tabata",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kawano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "9",
+            "pages": "1043--1050",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Radiological Society of North America Expert Consensus Statement on Reporting Chest CT Findings Related to COVID-19. Endorsed by the Society of Thoracic Radiology, the American College of Radiology, and RSNA",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Kay",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abbara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "2",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Early viral clearance and antibody kinetics of COVID-19 among asymptomatic carriers",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tongyang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mizumoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kagaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zarebski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chowell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eurosurveillance",
+            "volume": "25",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Presymptomatic SARS-CoV-2 infections and transmission in a skilled nursing facility",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arons",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hatfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Reddy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "22",
+            "pages": "2081--2090",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Demonstrating the Dynamics of the RT-PCR of Three Patients During Hospitalization. Abbreviations: CT, computerized tomography; RT-PCR, reverse transcription polymerase chain reaction. Goldenfeld \u00a9 2020 Prehospital and Disaster Medicine",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Unenhanced Chest CT Scan of a 76-Year-Old Asymptomatic Man with COVID-19. Note: Coned down view of the right lower lobe (lung windows) demonstrates minimal ground glass opacities (arrows), perhaps the result of the documented recent viral infection. Abbreviations: COVID-19, coronavirus disease 2019; CT, computerized tomography.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": "Antibodies were detected using the Anti-SARS-CoV-2 IgG ELISA assay (EUROIMMUN Medizinische Labordiagnostika AG); results were reported as positive or negative. b Duration of positive test for patients hospitalized only in Japan was calculated from the first positive test to the date of flight to Israel, or first negative (out of two consecutive negative tests).",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}
