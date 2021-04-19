@@ -11,7 +11,8 @@ https://www.semanticscholar.org/cord19 > Download CORD-19 > All releases.
 or direct link: 
 https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html
 
-We have collected datasets at .json format from date: 2021-03-29.
+We have collected datasets at .json format from date: 2021-03-29. The datasets are more or less 160.000 in total. So running the **get_articles.py** script, located at 'Covid19_SearchEngine/scripts/get_articles.py', getting those documents whose their titles are referenced to keywords like 'Covid', 'Coronavirus', 'SARS-CoV-2'. We are collecting 1000 documents and moving them to a new folder path to work with.
+
 
 ### Steps
 
