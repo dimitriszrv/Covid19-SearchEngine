@@ -1,0 +1,7 @@
+Anne Quito
+2020-01-29
+qz
+Coronavirus: The engineering behind Wuhan's rapidly-built hospitals — Quartz
+https://qz.com/1792705/coronavirus-the-engineering-behind-wuhans-rapidly-built-hospitals/
+tech
+In Wuhan, China, there’s a riveting sideshow in the unfolding drama to contain the fast-spreading coronavirus strain that has already claimed 132 lives and infected over 6,000, as of the latest confirmedcount. The majority of those infected are in Wuhan, and the Chinese government is putting its resources into building new medical facilities, fast. Millions are watching daily videos of an architectural feat: two fully functioning hospitals rising from the ground in meredays. Broadcast by Chinese state media, drone footage of the construction site shows a ballet of bulldozers digging the foundation and a parade of trucks hauling in steel cable, cement, pre-fab parts and power generators. Workers are toiling around the clock to meet the frantic timeline: Huoshenshan Hospital, which broke ground on Jan. 24, is scheduled to be operational on Feb. 3, will have 1,000 beds and occupy a 269,000 sq. ft. lot in the edge of the city. With an equally ambitious timeline is Leishenshan Hospital, a 323,000-sq. ft, 1,300-bed facility slated to open two days later.

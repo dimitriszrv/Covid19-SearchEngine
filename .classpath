@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx_"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/common/lucene-analyzers-common-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/icu/lucene-analyzers-icu-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/kuromoji/lucene-analyzers-kuromoji-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/morfologik/lucene-analyzers-morfologik-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/nori/lucene-analyzers-nori-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/opennlp/lucene-analyzers-opennlp-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/phonetic/lucene-analyzers-phonetic-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/analysis/smartcn/lucene-analyzers-smartcn-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/backward-codecs/lucene-backward-codecs-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/benchmark/lucene-benchmark-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/classification/lucene-classification-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/codecs/lucene-codecs-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/core/lucene-core-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/demo/lucene-demo-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/expressions/lucene-expressions-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/facet/lucene-facet-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/grouping/lucene-grouping-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/highlighter/lucene-highlighter-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/join/lucene-join-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/luke/lucene-luke-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/memory/lucene-memory-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/misc/lucene-misc-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/monitor/lucene-monitor-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/queries/lucene-queries-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/queryparser/lucene-queryparser-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/replicator/lucene-replicator-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/sandbox/lucene-sandbox-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/spatial3d/lucene-spatial3d-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/spatial-extras/lucene-spatial-extras-8.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-8.8.2/suggest/lucene-suggest-8.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
