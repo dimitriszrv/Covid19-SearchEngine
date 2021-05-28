@@ -13,7 +13,7 @@ Using datasets from **Kaggle.com** related to Covid-19 (and in general health is
 
 Datasets are found at url: 
 
-[Covid19 datasets] (https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset "Kaggle home")
+https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset
 
 _This file contains more than 380,000 online articles with full texts which were scraped from online media in the timespan January 1 - December 31, 2020 from 65 English-language websites._
 
