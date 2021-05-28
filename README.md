@@ -7,7 +7,13 @@ This project is part of the Information Retrieval course
 - Evangelos Barbalias  
 - Dimitrios Zervas    
 
-## Project Information
+## Folder info
+- `src` : Contains the source code of the project
+- `deliverables` : Contains the report and a demo video
+- `covid19_articles` : Txt files with covid19 articles
+- `indexes` : Folder in which the indexes are stored
+
+## About
 
 Using datasets from **Kaggle.com** related to Covid-19 (and in general health issues) and given some key-words, returning articles that match best with the search word/s  -words are located at title or at body text(content).
 
