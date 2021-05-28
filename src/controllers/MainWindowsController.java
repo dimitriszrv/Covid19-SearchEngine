@@ -4,15 +4,12 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
-
-import com.sun.glass.events.KeyEvent;
-
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
@@ -23,8 +20,11 @@ import model.Article;
 
 public class MainWindowsController implements Initializable{
 	private ArrayList<Article> foundArticles;
+	private ArrayList<String> searchHistory;
 	
-	
+    @FXML
+    private Label historyLabel;
+    
 	@FXML
 	private TextField searchBar;
 	
@@ -33,7 +33,7 @@ public class MainWindowsController implements Initializable{
     
 	@Override
 	public void initialize(URL arg0, ResourceBundle arg1) {
-		// TODO Auto-generated method stub
+		searchHistory = new ArrayList<>();
 	}
 	
     @FXML
@@ -62,12 +62,14 @@ public class MainWindowsController implements Initializable{
     	}
     	else {
     		System.out.printf("\n__ SEARCHING __\n{ %s }\n",searchBar.getText());
+    		searchHistory.add(searchBar.getText());
+    		updateHistory();
     		
     		long startTime = System.currentTimeMillis();
     		this.foundArticles = MainEngine.getMainEngineInstance().searchRelatedArticles(searchBar.getText());
     		long estimatedTime = System.currentTimeMillis() - startTime;
     		
-    		System.out.println("Ellapsed time for indexing : "+estimatedTime);
+    		System.out.println("Ellapsed time for searching : "+((estimatedTime/1000)%60)+" sec");
     		
     		FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/SearchWindow.fxml"));    	
     		SearchWindowController searchCntrller = new SearchWindowController(foundArticles);
@@ -90,6 +92,16 @@ public class MainWindowsController implements Initializable{
     		//stage.setResizable(false);
     		stage.show();
     	}
+    
     }
 	
+	private void updateHistory() {
+		String historyString = " ";
+		for(String search : searchHistory) {
+			historyString += search + "  ";
+		}
+		
+		historyLabel.setText(historyString);
+	}
+    
 }

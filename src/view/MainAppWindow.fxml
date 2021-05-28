@@ -28,7 +28,7 @@
       </Pane>
       <Pane prefHeight="663.0" prefWidth="1200.0" style="-fx-background-color: #f0f0f0;">
          <children>
-            <TextField fx:id="searchBar" alignment="CENTER" layoutX="140.0" layoutY="193.0" prefHeight="38.0" prefWidth="923.0" promptText="Search for Covid-19 related articles" style="-fx-background-color: #e6f9ff;">
+            <TextField fx:id="searchBar" alignment="CENTER" layoutX="140.0" layoutY="193.0" prefHeight="38.0" prefWidth="923.0" promptText="Search here" style="-fx-background-color: #e6f9ff;">
                <font>
                   <Font name="Verdana" size="16.0" />
                </font>
@@ -51,6 +51,21 @@
                </cursor>
             </ImageView>
             <ProgressBar layoutX="1.0" layoutY="441.0" prefHeight="23.0" prefWidth="1200.0" progress="0.0" />
+            <Label fx:id="historyLabel" layoutX="271.0" layoutY="241.0" prefHeight="21.0" prefWidth="792.0">
+               <font>
+                  <Font name="Lucida Bright" size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="140.0" layoutY="241.0" text="Search History" textFill="#0099cc">
+               <font>
+                  <Font name="Lucida Bright Demibold" size="15.0" />
+               </font>
+            </Label>
+            <Label layoutX="447.0" layoutY="157.0" text="Search for Covid-19 related articles">
+               <font>
+                  <Font name="Lucida Bright Demibold Italic" size="18.0" />
+               </font>
+            </Label>
          </children>
       </Pane>
    </children>
