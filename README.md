@@ -3,15 +3,22 @@
 ### Implementing a search engine of articles related to Covid-19.
 This project is part of the Information Retrieval course
 
-## Project team members
-- Evangelos Barbalias  
-- Dimitrios Zervas    
-
+Contributors : 
+<a href="https://github.com/vaggelisbarb">
+    Evangelos Barbalias
+</a> and <a href="https://github.com/dimitriszrv">
+    Dimitrios Zervas
+</a>
+   
 ## Folder info
 - `src` : Contains the source code of the project
 - `deliverables` : Contains the report and a demo video
 - `covid19_articles` : Txt files with covid19 articles
 - `indexes` : Folder in which the indexes are stored
+
+## On the run
+![Screenshot (74)](https://user-images.githubusercontent.com/17185057/119990011-81664c80-bfd0-11eb-845e-62291cf933a1.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/17185057/119990031-86c39700-bfd0-11eb-9bc8-5b68f40f6f6b.png)
 
 ## About
 
