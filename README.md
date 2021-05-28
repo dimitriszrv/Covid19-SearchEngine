@@ -1,7 +1,7 @@
 # Corona Search
 
 ### Implementing a search engine of articles related to Covid-19.
-This project is part of the Information Retrieval course
+This project is part of the `Information Retrieval` course, CSE Dept. of University of Ioannina, Greece.
 
 Contributors : 
 <a href="https://github.com/vaggelisbarb">
