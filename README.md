@@ -16,10 +16,6 @@ Contributors :
 - `covid19_articles` : Txt files with covid19 articles
 - `indexes` : Folder in which the indexes are stored
 
-## On the run
-![Screenshot (74)](https://user-images.githubusercontent.com/17185057/119990011-81664c80-bfd0-11eb-845e-62291cf933a1.png)
-![Screenshot (75)](https://user-images.githubusercontent.com/17185057/119990031-86c39700-bfd0-11eb-9bc8-5b68f40f6f6b.png)
-
 ## About
 
 Using datasets from **Kaggle.com** related to Covid-19 (and in general health issues) and given some key-words, returning articles that match best with the search word/s  -words are located at title or at body text(content).
@@ -35,7 +31,15 @@ So running the **get_articles.py** script, located at 'Covid19_SearchEngine/scri
 
 Sample of documents are at 'Covid19_SearchEngine/articles' and the file covid19_articles.zip has all the documents collected.
 
-### Steps
+## Demo
+
+![l1](https://user-images.githubusercontent.com/17187213/119989894-63005100-bfd0-11eb-9f3c-31fdbf4b0870.png)
+
+Given some words to search (ex sars), the results are shown as above, the user has the ability to choose the sort by date and the history searches are being saved also.
+
+![l3](https://user-images.githubusercontent.com/17187213/119990724-5af4e100-bfd1-11eb-9e3b-774e719aae33.png)
+
+### Steps ( check deliverables/2766_2894_report.pdf )
 
 Each txt file has fields like author, date, domain, title, url, topic_area and content. But at the creation of the documents will be stored the fields author, title, content and date saved as TextFields and then adding the documents to **IndexWriter()** will be implemented once and will be stored at disk memory using inverted index scoring (an inverted index uses the tokens as the lookup key to find the documents which contains that token), and maps it. 
 
