@@ -31,7 +31,7 @@ https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset
 _This file contains more than 380,000 online articles with full texts which were scraped from online media in the timespan January 1 - December 31, 2020 from 65 English-language websites._
 
 So running the **get_articles.py** script, located at '**Covid19_SearchEngine/scripts/get_articles.py**', getting those documents whose their titles are referenced to keywords like 'covid', 'sars', 'coronavirus', 'virus', 'pneumonia', 'flu', 'epidemic'. We are collecting 1000 documents and moving them to a new folder path to work with. Each document is being saved as txt file by its title   
--> ex 10 year Treasury yield falls below 1 7 amid coronavirus fears.txt
+-> ex 10_year_Treasury_yield_falls_below_1_7_amid_coronavirus_fears.txt
 
 Documents are found at '**Covid19_SearchEngine/articles**'.
 
