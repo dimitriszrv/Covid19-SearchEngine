@@ -29,4 +29,4 @@ Each txt file has fields like author, date, domain, title, url, topic_area and c
 The Search User Interface is implemented with **GUI search box and JavaFX**. The given word/s are being searched at fields title and content(text). 
 All queries are done by 'StandardAnalyzer()' and 'QueryBuiler()'.
 
-The results will be show at GUI as 10 results per page.
+The results will be show at GUI as 10 results per page..
