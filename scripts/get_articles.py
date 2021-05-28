@@ -47,8 +47,8 @@ with open(path+"/covid19_articles_20201231.csv", "r") as file:
         if any(x in title.lower() for x in matches):
             
             # remove special characters from title, because each txt is stored as 'title name'.txt
-            t = re.sub("(\\W)+"," ",title)
-   
+            t = re.sub('(\\W)+|”|“|‘|’|"',' ',title)
+            t = t.replace(" ","_")
             # check if the file is already there
             if not(os.path.exists(create_folder_path+t+".txt")):
 
@@ -57,8 +57,10 @@ with open(path+"/covid19_articles_20201231.csv", "r") as file:
                 
                 # remove from content some unnecessary data
                 content = re.sub(r'document.write(.*\));','',content)
-                content = re.sub(r"\n|\xa0|\'|”|“",'',content)
-
+                content = re.sub(r"\n|\xa0|\'",'',content)#.replace("’","'")#|”|“
+                content = re.sub(r'”|“|‘|’|"',"'",content)
+                title = re.sub(r'”|“|‘|’|"',"'",title)
+                
                 # write and close
                 covid19_articles.write(author+"\n"+date+"\n"+domain+"\n"+title+"\n"+url+"\n"+topic_area+"\n"+content)
                 covid19_articles.close()
