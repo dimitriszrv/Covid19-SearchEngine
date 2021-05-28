@@ -4,8 +4,8 @@
 This project is part of the Information Retrieval course
 
 ## Project team members
-- Evangelos Barbalias   @vaggelisbarb
-- Dimitrios Zervas      @dimitriszrv
+- Evangelos Barbalias  
+- Dimitrios Zervas    
 
 ## Project Information
 
